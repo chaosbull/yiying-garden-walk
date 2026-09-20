@@ -2,7 +2,7 @@
 
 Code and figures for walking maps in Yiying Garden (怡影园). Paths use a scenery-change score Q plus a crowd-aware cost, then get drawn as winding garden routes.
 
-Zeng Wenquan · https://github.com/chaosbull
+chaosbull · https://github.com/chaosbull
 
 ## Layout
 
