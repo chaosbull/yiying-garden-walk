@@ -1,0 +1,6 @@
+frame_0001.png  spot 1
+frame_0040.png  spot 6
+frame_0079.png  spot 10
+frame_0151.png  spot 15
+frame_0246.png  spot 19
+frame_0379.png  spot 22

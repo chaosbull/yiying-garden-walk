@@ -1,0 +1,541 @@
+﻿frame,spot_id,spot,elapsed_min,step1,step2,arrive_min,crowd_lo,crowd_hi,path_Q,JR
+1,1,Stone Arch Gate,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0.7644,0.098844
+1,1,Stone Arch Gate,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,1.4075,0.108593
+1,1,Stone Arch Gate,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,1.2006,0.199095
+1,1,Stone Arch Gate,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0.986,0.256865
+2,1,Stone Arch Gate,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0.7644,0.098844
+2,1,Stone Arch Gate,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,1.4075,0.108593
+2,1,Stone Arch Gate,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,1.2006,0.199095
+2,1,Stone Arch Gate,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0.986,0.256865
+3,1,Stone Arch Gate,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0.7644,0.098844
+3,1,Stone Arch Gate,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,1.4075,0.108593
+3,1,Stone Arch Gate,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,1.2006,0.199095
+3,1,Stone Arch Gate,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0.986,0.256865
+4,1,Stone Arch Gate,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0.7644,0.098844
+4,1,Stone Arch Gate,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,1.4075,0.108593
+4,1,Stone Arch Gate,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,1.2006,0.199095
+4,1,Stone Arch Gate,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0.986,0.256865
+40,6,Paulownia Studio,6.0,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0.8975,0.143121
+40,6,Paulownia Studio,6.0,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,1.3038,0.14705
+40,6,Paulownia Studio,6.0,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0.8789,0.159986
+40,6,Paulownia Studio,6.0,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0.9722,0.196874
+41,6,Paulownia Studio,6.23,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0.8975,0.143121
+41,6,Paulownia Studio,6.23,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,1.3038,0.14705
+41,6,Paulownia Studio,6.23,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0.8789,0.159986
+41,6,Paulownia Studio,6.23,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0.9722,0.196874
+42,6,Paulownia Studio,6.45,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0.8975,0.143121
+42,6,Paulownia Studio,6.45,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,1.3038,0.14705
+42,6,Paulownia Studio,6.45,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0.8789,0.159986
+42,6,Paulownia Studio,6.45,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0.9722,0.196874
+43,6,Paulownia Studio,6.68,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0.8975,0.143121
+43,6,Paulownia Studio,6.68,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,1.3038,0.14705
+43,6,Paulownia Studio,6.68,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0.8789,0.159986
+43,6,Paulownia Studio,6.68,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0.9722,0.196874
+44,6,Paulownia Studio,6.91,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0.8975,0.143121
+44,6,Paulownia Studio,6.91,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,1.3038,0.14705
+44,6,Paulownia Studio,6.91,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0.8789,0.159986
+44,6,Paulownia Studio,6.91,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0.9722,0.196874
+45,6,Paulownia Studio,7.14,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,1.3038,0.15795
+45,6,Paulownia Studio,7.14,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0.8975,0.172871
+45,6,Paulownia Studio,7.14,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0.8789,0.174193
+45,6,Paulownia Studio,7.14,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0.9722,0.236447
+46,6,Paulownia Studio,7.36,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,1.3038,0.15795
+46,6,Paulownia Studio,7.36,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0.8975,0.172871
+46,6,Paulownia Studio,7.36,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0.8789,0.174193
+46,6,Paulownia Studio,7.36,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0.9722,0.236447
+47,6,Paulownia Studio,7.59,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,1.3038,0.15795
+47,6,Paulownia Studio,7.59,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0.8975,0.172871
+47,6,Paulownia Studio,7.59,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0.8789,0.174193
+47,6,Paulownia Studio,7.59,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0.9722,0.236447
+48,6,Paulownia Studio,7.82,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,1.3038,0.15795
+48,6,Paulownia Studio,7.82,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0.8975,0.172871
+48,6,Paulownia Studio,7.82,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0.8789,0.174193
+48,6,Paulownia Studio,7.82,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0.9722,0.236447
+49,6,Paulownia Studio,8.05,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,1.3038,0.156929
+49,6,Paulownia Studio,8.05,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0.8975,0.172174
+49,6,Paulownia Studio,8.05,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0.8789,0.203999
+49,6,Paulownia Studio,8.05,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0.9722,0.245823
+50,6,Paulownia Studio,8.27,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,1.3038,0.156929
+50,6,Paulownia Studio,8.27,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0.8975,0.172174
+50,6,Paulownia Studio,8.27,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0.8789,0.203999
+50,6,Paulownia Studio,8.27,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0.9722,0.245823
+51,6,Paulownia Studio,8.5,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,1.3038,0.156929
+51,6,Paulownia Studio,8.5,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0.8975,0.172174
+51,6,Paulownia Studio,8.5,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0.8789,0.203999
+51,6,Paulownia Studio,8.5,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0.9722,0.245823
+52,6,Paulownia Studio,8.73,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,1.3038,0.156929
+52,6,Paulownia Studio,8.73,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0.8975,0.172174
+52,6,Paulownia Studio,8.73,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0.8789,0.203999
+52,6,Paulownia Studio,8.73,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0.9722,0.245823
+53,6,Paulownia Studio,8.95,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,1.3038,0.156929
+53,6,Paulownia Studio,8.95,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0.8975,0.172174
+53,6,Paulownia Studio,8.95,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0.8789,0.203999
+53,6,Paulownia Studio,8.95,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0.9722,0.245823
+54,6,Paulownia Studio,9.18,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,1.3038,0.131424
+54,6,Paulownia Studio,9.18,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0.8975,0.151133
+54,6,Paulownia Studio,9.18,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0.8789,0.201921
+54,6,Paulownia Studio,9.18,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,1.0133,0.228212
+55,6,Paulownia Studio,9.41,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,1.3038,0.131424
+55,6,Paulownia Studio,9.41,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0.8975,0.151133
+55,6,Paulownia Studio,9.41,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0.8789,0.201921
+55,6,Paulownia Studio,9.41,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,1.0133,0.228212
+56,6,Paulownia Studio,9.64,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,1.3038,0.131424
+56,6,Paulownia Studio,9.64,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0.8975,0.151133
+56,6,Paulownia Studio,9.64,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0.8789,0.201921
+56,6,Paulownia Studio,9.64,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,1.0133,0.228212
+57,6,Paulownia Studio,9.86,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,1.3038,0.131424
+57,6,Paulownia Studio,9.86,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0.8975,0.151133
+57,6,Paulownia Studio,9.86,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0.8789,0.201921
+57,6,Paulownia Studio,9.86,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,1.0133,0.228212
+58,6,Paulownia Studio,10.09,Wall-Facing Pavilion,Locked Green Studio,6,22.27,31.05,1.3038,0.106898
+58,6,Paulownia Studio,10.09,Wall-Facing Pavilion,Lotus Waterside,6,22.27,31.05,0.8975,0.128788
+58,6,Paulownia Studio,10.09,Wall-Facing Pavilion,Magnolia Hall,6,22.27,31.05,1.0133,0.198622
+58,6,Paulownia Studio,10.09,Wall-Facing Pavilion,Phoenix Paulownia,6,22.27,31.05,0.9722,0.203324
+59,6,Paulownia Studio,10.32,Wall-Facing Pavilion,Locked Green Studio,6,22.27,31.05,1.3038,0.106898
+59,6,Paulownia Studio,10.32,Wall-Facing Pavilion,Lotus Waterside,6,22.27,31.05,0.8975,0.128788
+59,6,Paulownia Studio,10.32,Wall-Facing Pavilion,Magnolia Hall,6,22.27,31.05,1.0133,0.198622
+59,6,Paulownia Studio,10.32,Wall-Facing Pavilion,Phoenix Paulownia,6,22.27,31.05,0.9722,0.203324
+60,6,Paulownia Studio,10.55,Wall-Facing Pavilion,Locked Green Studio,6,22.27,31.05,1.3038,0.106898
+60,6,Paulownia Studio,10.55,Wall-Facing Pavilion,Lotus Waterside,6,22.27,31.05,0.8975,0.128788
+60,6,Paulownia Studio,10.55,Wall-Facing Pavilion,Magnolia Hall,6,22.27,31.05,1.0133,0.198622
+60,6,Paulownia Studio,10.55,Wall-Facing Pavilion,Phoenix Paulownia,6,22.27,31.05,0.9722,0.203324
+61,6,Paulownia Studio,10.77,Wall-Facing Pavilion,Locked Green Studio,6,22.27,31.05,1.3038,0.106898
+61,6,Paulownia Studio,10.77,Wall-Facing Pavilion,Lotus Waterside,6,22.27,31.05,0.8975,0.128788
+61,6,Paulownia Studio,10.77,Wall-Facing Pavilion,Magnolia Hall,6,22.27,31.05,1.0133,0.198622
+61,6,Paulownia Studio,10.77,Wall-Facing Pavilion,Phoenix Paulownia,6,22.27,31.05,0.9722,0.203324
+79,10,South Snow Pavilion,14.0,Moon-Hoe Studio,Golden Chestnut Studio,8,15.21,22.2,1.4632,0.152007
+79,10,South Snow Pavilion,14.0,Phoenix Paulownia,Moon-Hoe Studio,8,16.94,24.37,1.1895,0.186477
+79,10,South Snow Pavilion,14.0,Phoenix Paulownia,Golden Chestnut Studio,8,16.94,24.37,1.4436,0.20032
+79,10,South Snow Pavilion,14.0,Phoenix Paulownia,Stone Qin Room,8,16.94,24.37,1.3094,0.200417
+80,10,South Snow Pavilion,14.23,Moon-Hoe Studio,Golden Chestnut Studio,8,12.16,18.38,1.4632,0.152007
+80,10,South Snow Pavilion,14.23,Phoenix Paulownia,Golden Chestnut Studio,8,17.06,24.52,1.4436,0.197682
+80,10,South Snow Pavilion,14.23,Phoenix Paulownia,Moon-Hoe Studio,8,17.06,24.52,1.1895,0.203406
+80,10,South Snow Pavilion,14.23,Phoenix Paulownia,Stone Qin Room,8,17.06,24.52,1.3094,0.214845
+81,10,South Snow Pavilion,14.46,Moon-Hoe Studio,Golden Chestnut Studio,8,12.16,18.38,1.4632,0.152007
+81,10,South Snow Pavilion,14.46,Phoenix Paulownia,Golden Chestnut Studio,8,17.06,24.52,1.4436,0.197682
+81,10,South Snow Pavilion,14.46,Phoenix Paulownia,Moon-Hoe Studio,8,17.06,24.52,1.1895,0.203406
+81,10,South Snow Pavilion,14.46,Phoenix Paulownia,Stone Qin Room,8,17.06,24.52,1.3094,0.214845
+82,10,South Snow Pavilion,14.69,Moon-Hoe Studio,Golden Chestnut Studio,8,12.16,18.38,1.4632,0.152007
+82,10,South Snow Pavilion,14.69,Phoenix Paulownia,Golden Chestnut Studio,8,17.06,24.52,1.4436,0.197682
+82,10,South Snow Pavilion,14.69,Phoenix Paulownia,Moon-Hoe Studio,8,17.06,24.52,1.1895,0.203406
+82,10,South Snow Pavilion,14.69,Phoenix Paulownia,Stone Qin Room,8,17.06,24.52,1.3094,0.214845
+83,10,South Snow Pavilion,14.92,Moon-Hoe Studio,Golden Chestnut Studio,8,12.16,18.38,1.4632,0.152007
+83,10,South Snow Pavilion,14.92,Phoenix Paulownia,Golden Chestnut Studio,8,17.06,24.52,1.4436,0.197682
+83,10,South Snow Pavilion,14.92,Phoenix Paulownia,Moon-Hoe Studio,8,17.06,24.52,1.1895,0.203406
+83,10,South Snow Pavilion,14.92,Phoenix Paulownia,Stone Qin Room,8,17.06,24.52,1.3094,0.214845
+84,10,South Snow Pavilion,15.15,Moon-Hoe Studio,Golden Chestnut Studio,8,16.98,24.42,1.4632,0.152007
+84,10,South Snow Pavilion,15.15,Phoenix Paulownia,Golden Chestnut Studio,8,20.84,29.25,1.4436,0.204159
+84,10,South Snow Pavilion,15.15,Phoenix Paulownia,Moon-Hoe Studio,8,20.84,29.25,1.1895,0.206061
+84,10,South Snow Pavilion,15.15,Phoenix Paulownia,Stone Qin Room,8,20.84,29.25,1.3094,0.213079
+85,10,South Snow Pavilion,15.38,Moon-Hoe Studio,Golden Chestnut Studio,8,16.98,24.42,1.4632,0.152007
+85,10,South Snow Pavilion,15.38,Phoenix Paulownia,Golden Chestnut Studio,8,20.84,29.25,1.4436,0.204159
+85,10,South Snow Pavilion,15.38,Phoenix Paulownia,Moon-Hoe Studio,8,20.84,29.25,1.1895,0.206061
+85,10,South Snow Pavilion,15.38,Phoenix Paulownia,Stone Qin Room,8,20.84,29.25,1.3094,0.213079
+86,10,South Snow Pavilion,15.62,Moon-Hoe Studio,Golden Chestnut Studio,8,16.98,24.42,1.4632,0.152007
+86,10,South Snow Pavilion,15.62,Phoenix Paulownia,Golden Chestnut Studio,8,20.84,29.25,1.4436,0.204159
+86,10,South Snow Pavilion,15.62,Phoenix Paulownia,Moon-Hoe Studio,8,20.84,29.25,1.1895,0.206061
+86,10,South Snow Pavilion,15.62,Phoenix Paulownia,Stone Qin Room,8,20.84,29.25,1.3094,0.213079
+87,10,South Snow Pavilion,15.85,Moon-Hoe Studio,Golden Chestnut Studio,8,16.98,24.42,1.4632,0.152007
+87,10,South Snow Pavilion,15.85,Phoenix Paulownia,Golden Chestnut Studio,8,20.84,29.25,1.4436,0.204159
+87,10,South Snow Pavilion,15.85,Phoenix Paulownia,Moon-Hoe Studio,8,20.84,29.25,1.1895,0.206061
+87,10,South Snow Pavilion,15.85,Phoenix Paulownia,Stone Qin Room,8,20.84,29.25,1.3094,0.213079
+88,10,South Snow Pavilion,16.08,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,1.4632,0.152007
+88,10,South Snow Pavilion,16.08,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,1.4436,0.208701
+88,10,South Snow Pavilion,16.08,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,1.1895,0.215161
+88,10,South Snow Pavilion,16.08,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,1.3094,0.228793
+89,10,South Snow Pavilion,16.31,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,1.4632,0.152007
+89,10,South Snow Pavilion,16.31,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,1.4436,0.208701
+89,10,South Snow Pavilion,16.31,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,1.1895,0.215161
+89,10,South Snow Pavilion,16.31,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,1.3094,0.228793
+90,10,South Snow Pavilion,16.54,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,1.4632,0.152007
+90,10,South Snow Pavilion,16.54,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,1.4436,0.208701
+90,10,South Snow Pavilion,16.54,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,1.1895,0.215161
+90,10,South Snow Pavilion,16.54,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,1.3094,0.228793
+91,10,South Snow Pavilion,16.77,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,1.4632,0.152007
+91,10,South Snow Pavilion,16.77,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,1.4436,0.208701
+91,10,South Snow Pavilion,16.77,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,1.1895,0.215161
+91,10,South Snow Pavilion,16.77,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,1.3094,0.228793
+92,10,South Snow Pavilion,17.0,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,1.4632,0.152007
+92,10,South Snow Pavilion,17.0,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,1.4436,0.208701
+92,10,South Snow Pavilion,17.0,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,1.1895,0.215161
+92,10,South Snow Pavilion,17.0,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,1.3094,0.228793
+93,10,South Snow Pavilion,17.23,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,1.4632,0.153177
+93,10,South Snow Pavilion,17.23,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,1.4436,0.219
+93,10,South Snow Pavilion,17.23,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,1.1895,0.22566
+93,10,South Snow Pavilion,17.23,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,1.2683,0.237016
+94,10,South Snow Pavilion,17.46,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,1.4632,0.153177
+94,10,South Snow Pavilion,17.46,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,1.4436,0.219
+94,10,South Snow Pavilion,17.46,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,1.1895,0.22566
+94,10,South Snow Pavilion,17.46,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,1.2683,0.237016
+95,10,South Snow Pavilion,17.69,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,1.4632,0.153177
+95,10,South Snow Pavilion,17.69,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,1.4436,0.219
+95,10,South Snow Pavilion,17.69,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,1.1895,0.22566
+95,10,South Snow Pavilion,17.69,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,1.2683,0.237016
+96,10,South Snow Pavilion,17.92,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,1.4632,0.153177
+96,10,South Snow Pavilion,17.92,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,1.4436,0.219
+96,10,South Snow Pavilion,17.92,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,1.1895,0.22566
+96,10,South Snow Pavilion,17.92,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,1.2683,0.237016
+97,10,South Snow Pavilion,18.15,Moon-Hoe Studio,Golden Chestnut Studio,8,13.61,20.19,1.4632,0.156001
+97,10,South Snow Pavilion,18.15,Phoenix Paulownia,Moon-Hoe Studio,8,19.38,27.42,1.1895,0.217756
+97,10,South Snow Pavilion,18.15,Phoenix Paulownia,Golden Chestnut Studio,8,19.38,27.42,1.4436,0.218413
+97,10,South Snow Pavilion,18.15,Phoenix Paulownia,Wall-Facing Pavilion,8,19.38,27.42,1.2683,0.231613
+98,10,South Snow Pavilion,18.38,Moon-Hoe Studio,Golden Chestnut Studio,8,13.61,20.19,1.4632,0.156001
+98,10,South Snow Pavilion,18.38,Phoenix Paulownia,Moon-Hoe Studio,8,19.38,27.42,1.1895,0.217756
+98,10,South Snow Pavilion,18.38,Phoenix Paulownia,Golden Chestnut Studio,8,19.38,27.42,1.4436,0.218413
+98,10,South Snow Pavilion,18.38,Phoenix Paulownia,Wall-Facing Pavilion,8,19.38,27.42,1.2683,0.231613
+99,10,South Snow Pavilion,18.62,Moon-Hoe Studio,Golden Chestnut Studio,8,13.61,20.19,1.4632,0.156001
+99,10,South Snow Pavilion,18.62,Phoenix Paulownia,Moon-Hoe Studio,8,19.38,27.42,1.1895,0.217756
+99,10,South Snow Pavilion,18.62,Phoenix Paulownia,Golden Chestnut Studio,8,19.38,27.42,1.4436,0.218413
+99,10,South Snow Pavilion,18.62,Phoenix Paulownia,Wall-Facing Pavilion,8,19.38,27.42,1.2683,0.231613
+100,10,South Snow Pavilion,18.85,Moon-Hoe Studio,Golden Chestnut Studio,8,13.61,20.19,1.4632,0.156001
+100,10,South Snow Pavilion,18.85,Phoenix Paulownia,Moon-Hoe Studio,8,19.38,27.42,1.1895,0.217756
+100,10,South Snow Pavilion,18.85,Phoenix Paulownia,Golden Chestnut Studio,8,19.38,27.42,1.4436,0.218413
+100,10,South Snow Pavilion,18.85,Phoenix Paulownia,Wall-Facing Pavilion,8,19.38,27.42,1.2683,0.231613
+101,10,South Snow Pavilion,19.08,Moon-Hoe Studio,Golden Chestnut Studio,8,13.71,20.32,1.4632,0.153099
+101,10,South Snow Pavilion,19.08,Phoenix Paulownia,Moon-Hoe Studio,8,22.64,31.51,1.1895,0.202349
+101,10,South Snow Pavilion,19.08,Phoenix Paulownia,Golden Chestnut Studio,8,22.64,31.51,1.4436,0.203899
+101,10,South Snow Pavilion,19.08,Phoenix Paulownia,Stone Qin Room,8,22.64,31.51,1.3094,0.216681
+102,10,South Snow Pavilion,19.31,Moon-Hoe Studio,Golden Chestnut Studio,8,13.71,20.32,1.4632,0.153099
+102,10,South Snow Pavilion,19.31,Phoenix Paulownia,Moon-Hoe Studio,8,22.64,31.51,1.1895,0.202349
+102,10,South Snow Pavilion,19.31,Phoenix Paulownia,Golden Chestnut Studio,8,22.64,31.51,1.4436,0.203899
+102,10,South Snow Pavilion,19.31,Phoenix Paulownia,Stone Qin Room,8,22.64,31.51,1.3094,0.216681
+103,10,South Snow Pavilion,19.54,Moon-Hoe Studio,Golden Chestnut Studio,8,13.71,20.32,1.4632,0.153099
+103,10,South Snow Pavilion,19.54,Phoenix Paulownia,Moon-Hoe Studio,8,22.64,31.51,1.1895,0.202349
+103,10,South Snow Pavilion,19.54,Phoenix Paulownia,Golden Chestnut Studio,8,22.64,31.51,1.4436,0.203899
+103,10,South Snow Pavilion,19.54,Phoenix Paulownia,Stone Qin Room,8,22.64,31.51,1.3094,0.216681
+104,10,South Snow Pavilion,19.77,Moon-Hoe Studio,Golden Chestnut Studio,8,13.71,20.32,1.4632,0.153099
+104,10,South Snow Pavilion,19.77,Phoenix Paulownia,Moon-Hoe Studio,8,22.64,31.51,1.1895,0.202349
+104,10,South Snow Pavilion,19.77,Phoenix Paulownia,Golden Chestnut Studio,8,22.64,31.51,1.4436,0.203899
+104,10,South Snow Pavilion,19.77,Phoenix Paulownia,Stone Qin Room,8,22.64,31.51,1.3094,0.216681
+151,15,Moon-Hoe Studio,28.0,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0.6103,0.13281
+151,15,Moon-Hoe Studio,28.0,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0.6737,0.151024
+151,15,Moon-Hoe Studio,28.0,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0.8427,0.172822
+151,15,Moon-Hoe Studio,28.0,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0.6608,0.178242
+152,15,Moon-Hoe Studio,28.23,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0.6103,0.13281
+152,15,Moon-Hoe Studio,28.23,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0.6737,0.151024
+152,15,Moon-Hoe Studio,28.23,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0.8427,0.172822
+152,15,Moon-Hoe Studio,28.23,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0.6608,0.178242
+153,15,Moon-Hoe Studio,28.46,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0.6103,0.13281
+153,15,Moon-Hoe Studio,28.46,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0.6737,0.151024
+153,15,Moon-Hoe Studio,28.46,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0.8427,0.172822
+153,15,Moon-Hoe Studio,28.46,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0.6608,0.178242
+154,15,Moon-Hoe Studio,28.69,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0.6103,0.13281
+154,15,Moon-Hoe Studio,28.69,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0.6737,0.151024
+154,15,Moon-Hoe Studio,28.69,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0.8427,0.172822
+154,15,Moon-Hoe Studio,28.69,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0.6608,0.178242
+155,15,Moon-Hoe Studio,28.92,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0.6103,0.13281
+155,15,Moon-Hoe Studio,28.92,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0.6737,0.151024
+155,15,Moon-Hoe Studio,28.92,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0.8427,0.172822
+155,15,Moon-Hoe Studio,28.92,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0.6608,0.178242
+156,15,Moon-Hoe Studio,29.15,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0.6608,0.092697
+156,15,Moon-Hoe Studio,29.15,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0.5381,0.116915
+156,15,Moon-Hoe Studio,29.15,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0.6103,0.130473
+156,15,Moon-Hoe Studio,29.15,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0.6737,0.147592
+157,15,Moon-Hoe Studio,29.38,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0.6608,0.092697
+157,15,Moon-Hoe Studio,29.38,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0.5381,0.116915
+157,15,Moon-Hoe Studio,29.38,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0.6103,0.130473
+157,15,Moon-Hoe Studio,29.38,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0.6737,0.147592
+158,15,Moon-Hoe Studio,29.62,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0.6608,0.092697
+158,15,Moon-Hoe Studio,29.62,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0.5381,0.116915
+158,15,Moon-Hoe Studio,29.62,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0.6103,0.130473
+158,15,Moon-Hoe Studio,29.62,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0.6737,0.147592
+159,15,Moon-Hoe Studio,29.85,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0.6608,0.092697
+159,15,Moon-Hoe Studio,29.85,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0.5381,0.116915
+159,15,Moon-Hoe Studio,29.85,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0.6103,0.130473
+159,15,Moon-Hoe Studio,29.85,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0.6737,0.147592
+160,15,Moon-Hoe Studio,30.08,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0.6608,0.086408
+160,15,Moon-Hoe Studio,30.08,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0.5381,0.105889
+160,15,Moon-Hoe Studio,30.08,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0.6103,0.140967
+160,15,Moon-Hoe Studio,30.08,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0.841,0.145575
+161,15,Moon-Hoe Studio,30.31,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0.6608,0.086408
+161,15,Moon-Hoe Studio,30.31,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0.5381,0.105889
+161,15,Moon-Hoe Studio,30.31,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0.6103,0.140967
+161,15,Moon-Hoe Studio,30.31,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0.841,0.145575
+162,15,Moon-Hoe Studio,30.54,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0.6608,0.086408
+162,15,Moon-Hoe Studio,30.54,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0.5381,0.105889
+162,15,Moon-Hoe Studio,30.54,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0.6103,0.140967
+162,15,Moon-Hoe Studio,30.54,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0.841,0.145575
+163,15,Moon-Hoe Studio,30.77,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0.6608,0.086408
+163,15,Moon-Hoe Studio,30.77,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0.5381,0.105889
+163,15,Moon-Hoe Studio,30.77,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0.6103,0.140967
+163,15,Moon-Hoe Studio,30.77,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0.841,0.145575
+164,15,Moon-Hoe Studio,31.0,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0.6608,0.086408
+164,15,Moon-Hoe Studio,31.0,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0.5381,0.105889
+164,15,Moon-Hoe Studio,31.0,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0.6103,0.140967
+164,15,Moon-Hoe Studio,31.0,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0.841,0.145575
+165,15,Moon-Hoe Studio,31.23,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0.6608,0.125619
+165,15,Moon-Hoe Studio,31.23,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0.6103,0.139764
+165,15,Moon-Hoe Studio,31.23,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0.5381,0.149445
+165,15,Moon-Hoe Studio,31.23,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0.841,0.171761
+166,15,Moon-Hoe Studio,31.46,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0.6608,0.125619
+166,15,Moon-Hoe Studio,31.46,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0.6103,0.139764
+166,15,Moon-Hoe Studio,31.46,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0.5381,0.149445
+166,15,Moon-Hoe Studio,31.46,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0.841,0.171761
+167,15,Moon-Hoe Studio,31.69,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0.6608,0.125619
+167,15,Moon-Hoe Studio,31.69,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0.6103,0.139764
+167,15,Moon-Hoe Studio,31.69,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0.5381,0.149445
+167,15,Moon-Hoe Studio,31.69,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0.841,0.171761
+168,15,Moon-Hoe Studio,31.92,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0.6608,0.125619
+168,15,Moon-Hoe Studio,31.92,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0.6103,0.139764
+168,15,Moon-Hoe Studio,31.92,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0.5381,0.149445
+168,15,Moon-Hoe Studio,31.92,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0.841,0.171761
+169,15,Moon-Hoe Studio,32.15,Winter Herb Hut,Lotus Depths,12,12.92,19.33,0.6103,0.119311
+169,15,Moon-Hoe Studio,32.15,Golden Chestnut Studio,Little Canglang Lodge,6,15.58,22.66,0.5381,0.183148
+169,15,Moon-Hoe Studio,32.15,Phoenix Paulownia,Stone Qin Room,6,13.8,20.44,0.6737,0.192912
+169,15,Moon-Hoe Studio,32.15,Phoenix Paulownia,Golden Chestnut Studio,6,13.8,20.44,0.8427,0.193123
+170,15,Moon-Hoe Studio,32.38,Winter Herb Hut,Lotus Depths,12,12.92,19.33,0.6103,0.119311
+170,15,Moon-Hoe Studio,32.38,Golden Chestnut Studio,Little Canglang Lodge,6,15.58,22.66,0.5381,0.183148
+170,15,Moon-Hoe Studio,32.38,Phoenix Paulownia,Stone Qin Room,6,13.8,20.44,0.6737,0.192912
+170,15,Moon-Hoe Studio,32.38,Phoenix Paulownia,Golden Chestnut Studio,6,13.8,20.44,0.8427,0.193123
+171,15,Moon-Hoe Studio,32.62,Winter Herb Hut,Lotus Depths,12,12.92,19.33,0.6103,0.119311
+171,15,Moon-Hoe Studio,32.62,Golden Chestnut Studio,Little Canglang Lodge,6,15.58,22.66,0.5381,0.183148
+171,15,Moon-Hoe Studio,32.62,Phoenix Paulownia,Stone Qin Room,6,13.8,20.44,0.6737,0.192912
+171,15,Moon-Hoe Studio,32.62,Phoenix Paulownia,Golden Chestnut Studio,6,13.8,20.44,0.8427,0.193123
+172,15,Moon-Hoe Studio,32.85,Winter Herb Hut,Lotus Depths,12,12.92,19.33,0.6103,0.119311
+172,15,Moon-Hoe Studio,32.85,Golden Chestnut Studio,Little Canglang Lodge,6,15.58,22.66,0.5381,0.183148
+172,15,Moon-Hoe Studio,32.85,Phoenix Paulownia,Stone Qin Room,6,13.8,20.44,0.6737,0.192912
+172,15,Moon-Hoe Studio,32.85,Phoenix Paulownia,Golden Chestnut Studio,6,13.8,20.44,0.8427,0.193123
+173,15,Moon-Hoe Studio,33.08,Winter Herb Hut,Lotus Depths,12,14.84,21.74,0.6103,0.123263
+173,15,Moon-Hoe Studio,33.08,Phoenix Paulownia,Golden Chestnut Studio,6,16.97,24.4,0.8427,0.129536
+173,15,Moon-Hoe Studio,33.08,Phoenix Paulownia,Stone Qin Room,6,16.97,24.4,0.6737,0.133098
+173,15,Moon-Hoe Studio,33.08,Phoenix Paulownia,Wall-Facing Pavilion,6,16.97,24.4,0.658,0.144902
+174,15,Moon-Hoe Studio,33.31,Winter Herb Hut,Lotus Depths,12,14.84,21.74,0.6103,0.123263
+174,15,Moon-Hoe Studio,33.31,Phoenix Paulownia,Golden Chestnut Studio,6,16.97,24.4,0.8427,0.129536
+174,15,Moon-Hoe Studio,33.31,Phoenix Paulownia,Stone Qin Room,6,16.97,24.4,0.6737,0.133098
+174,15,Moon-Hoe Studio,33.31,Phoenix Paulownia,Wall-Facing Pavilion,6,16.97,24.4,0.658,0.144902
+175,15,Moon-Hoe Studio,33.54,Winter Herb Hut,Lotus Depths,12,14.84,21.74,0.6103,0.123263
+175,15,Moon-Hoe Studio,33.54,Phoenix Paulownia,Golden Chestnut Studio,6,16.97,24.4,0.8427,0.129536
+175,15,Moon-Hoe Studio,33.54,Phoenix Paulownia,Stone Qin Room,6,16.97,24.4,0.6737,0.133098
+175,15,Moon-Hoe Studio,33.54,Phoenix Paulownia,Wall-Facing Pavilion,6,16.97,24.4,0.658,0.144902
+176,15,Moon-Hoe Studio,33.77,Winter Herb Hut,Lotus Depths,12,14.84,21.74,0.6103,0.123263
+176,15,Moon-Hoe Studio,33.77,Phoenix Paulownia,Golden Chestnut Studio,6,16.97,24.4,0.8427,0.129536
+176,15,Moon-Hoe Studio,33.77,Phoenix Paulownia,Stone Qin Room,6,16.97,24.4,0.6737,0.133098
+176,15,Moon-Hoe Studio,33.77,Phoenix Paulownia,Wall-Facing Pavilion,6,16.97,24.4,0.658,0.144902
+246,19,Winter Herb Hut,46.0,Golden Chestnut Studio,Stone Qin Room,7,12.17,18.39,0.8034,0.130826
+246,19,Winter Herb Hut,46.0,Golden Chestnut Studio,Phoenix Paulownia,7,12.17,18.39,0.9326,0.13349
+246,19,Winter Herb Hut,46.0,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,1.3645,0.149883
+246,19,Winter Herb Hut,46.0,Golden Chestnut Studio,Little Canglang Lodge,7,12.17,18.39,0.7083,0.161199
+247,19,Winter Herb Hut,46.23,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,1.3645,0.149883
+247,19,Winter Herb Hut,46.23,Lotus Depths,Paulownia Terrace,4,11.48,17.53,0.8583,0.15236
+247,19,Winter Herb Hut,46.23,Golden Chestnut Studio,Stone Qin Room,7,11.27,17.26,0.8034,0.166845
+247,19,Winter Herb Hut,46.23,Golden Chestnut Studio,Phoenix Paulownia,7,11.27,17.26,0.9326,0.172599
+248,19,Winter Herb Hut,46.46,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,1.3645,0.149883
+248,19,Winter Herb Hut,46.46,Lotus Depths,Paulownia Terrace,4,11.48,17.53,0.8583,0.15236
+248,19,Winter Herb Hut,46.46,Golden Chestnut Studio,Stone Qin Room,7,11.27,17.26,0.8034,0.166845
+248,19,Winter Herb Hut,46.46,Golden Chestnut Studio,Phoenix Paulownia,7,11.27,17.26,0.9326,0.172599
+249,19,Winter Herb Hut,46.69,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,1.3645,0.149883
+249,19,Winter Herb Hut,46.69,Lotus Depths,Paulownia Terrace,4,11.48,17.53,0.8583,0.15236
+249,19,Winter Herb Hut,46.69,Golden Chestnut Studio,Stone Qin Room,7,11.27,17.26,0.8034,0.166845
+249,19,Winter Herb Hut,46.69,Golden Chestnut Studio,Phoenix Paulownia,7,11.27,17.26,0.9326,0.172599
+250,19,Winter Herb Hut,46.91,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,1.3645,0.149883
+250,19,Winter Herb Hut,46.91,Lotus Depths,Paulownia Terrace,4,11.48,17.53,0.8583,0.15236
+250,19,Winter Herb Hut,46.91,Golden Chestnut Studio,Stone Qin Room,7,11.27,17.26,0.8034,0.166845
+250,19,Winter Herb Hut,46.91,Golden Chestnut Studio,Phoenix Paulownia,7,11.27,17.26,0.9326,0.172599
+251,19,Winter Herb Hut,47.14,Golden Chestnut Studio,Stone Qin Room,7,10.66,16.5,0.8034,0.116893
+251,19,Winter Herb Hut,47.14,Garden Tea Lodge,Paulownia Terrace,17,5.9,10.54,1.3645,0.149883
+251,19,Winter Herb Hut,47.14,Golden Chestnut Studio,Phoenix Paulownia,7,10.66,16.5,0.9326,0.150491
+251,19,Winter Herb Hut,47.14,Golden Chestnut Studio,Little Canglang Lodge,7,10.66,16.5,0.7083,0.158529
+252,19,Winter Herb Hut,47.37,Golden Chestnut Studio,Stone Qin Room,7,10.66,16.5,0.8034,0.116893
+252,19,Winter Herb Hut,47.37,Garden Tea Lodge,Paulownia Terrace,17,5.9,10.54,1.3645,0.149883
+252,19,Winter Herb Hut,47.37,Golden Chestnut Studio,Phoenix Paulownia,7,10.66,16.5,0.9326,0.150491
+252,19,Winter Herb Hut,47.37,Golden Chestnut Studio,Little Canglang Lodge,7,10.66,16.5,0.7083,0.158529
+253,19,Winter Herb Hut,47.6,Golden Chestnut Studio,Stone Qin Room,7,10.66,16.5,0.8034,0.116893
+253,19,Winter Herb Hut,47.6,Garden Tea Lodge,Paulownia Terrace,17,5.9,10.54,1.3645,0.149883
+253,19,Winter Herb Hut,47.6,Golden Chestnut Studio,Phoenix Paulownia,7,10.66,16.5,0.9326,0.150491
+253,19,Winter Herb Hut,47.6,Golden Chestnut Studio,Little Canglang Lodge,7,10.66,16.5,0.7083,0.158529
+254,19,Winter Herb Hut,47.83,Golden Chestnut Studio,Stone Qin Room,7,10.66,16.5,0.8034,0.116893
+254,19,Winter Herb Hut,47.83,Garden Tea Lodge,Paulownia Terrace,17,5.9,10.54,1.3645,0.149883
+254,19,Winter Herb Hut,47.83,Golden Chestnut Studio,Phoenix Paulownia,7,10.66,16.5,0.9326,0.150491
+254,19,Winter Herb Hut,47.83,Golden Chestnut Studio,Little Canglang Lodge,7,10.66,16.5,0.7083,0.158529
+255,19,Winter Herb Hut,48.06,Golden Chestnut Studio,Stone Qin Room,7,11.97,18.15,0.8034,0.121323
+255,19,Winter Herb Hut,48.06,Golden Chestnut Studio,Little Canglang Lodge,7,11.97,18.15,0.7083,0.138666
+255,19,Winter Herb Hut,48.06,Garden Tea Lodge,Paulownia Terrace,17,5.74,10.34,1.3645,0.149883
+255,19,Winter Herb Hut,48.06,Golden Chestnut Studio,Phoenix Paulownia,7,11.97,18.15,0.9326,0.150449
+256,19,Winter Herb Hut,48.29,Golden Chestnut Studio,Stone Qin Room,7,11.97,18.15,0.8034,0.121323
+256,19,Winter Herb Hut,48.29,Golden Chestnut Studio,Little Canglang Lodge,7,11.97,18.15,0.7083,0.138666
+256,19,Winter Herb Hut,48.29,Garden Tea Lodge,Paulownia Terrace,17,5.74,10.34,1.3645,0.149883
+256,19,Winter Herb Hut,48.29,Golden Chestnut Studio,Phoenix Paulownia,7,11.97,18.15,0.9326,0.150449
+257,19,Winter Herb Hut,48.51,Golden Chestnut Studio,Stone Qin Room,7,11.97,18.15,0.8034,0.121323
+257,19,Winter Herb Hut,48.51,Golden Chestnut Studio,Little Canglang Lodge,7,11.97,18.15,0.7083,0.138666
+257,19,Winter Herb Hut,48.51,Garden Tea Lodge,Paulownia Terrace,17,5.74,10.34,1.3645,0.149883
+257,19,Winter Herb Hut,48.51,Golden Chestnut Studio,Phoenix Paulownia,7,11.97,18.15,0.9326,0.150449
+258,19,Winter Herb Hut,48.74,Golden Chestnut Studio,Stone Qin Room,7,11.97,18.15,0.8034,0.121323
+258,19,Winter Herb Hut,48.74,Golden Chestnut Studio,Little Canglang Lodge,7,11.97,18.15,0.7083,0.138666
+258,19,Winter Herb Hut,48.74,Garden Tea Lodge,Paulownia Terrace,17,5.74,10.34,1.3645,0.149883
+258,19,Winter Herb Hut,48.74,Golden Chestnut Studio,Phoenix Paulownia,7,11.97,18.15,0.9326,0.150449
+259,19,Winter Herb Hut,48.97,Golden Chestnut Studio,Stone Qin Room,7,11.97,18.15,0.8034,0.121323
+259,19,Winter Herb Hut,48.97,Golden Chestnut Studio,Little Canglang Lodge,7,11.97,18.15,0.7083,0.138666
+259,19,Winter Herb Hut,48.97,Garden Tea Lodge,Paulownia Terrace,17,5.74,10.34,1.3645,0.149883
+259,19,Winter Herb Hut,48.97,Golden Chestnut Studio,Phoenix Paulownia,7,11.97,18.15,0.9326,0.150449
+260,19,Winter Herb Hut,49.2,Golden Chestnut Studio,Stone Qin Room,7,12.14,18.35,0.8034,0.109152
+260,19,Winter Herb Hut,49.2,Golden Chestnut Studio,Phoenix Paulownia,7,12.14,18.35,0.9326,0.145057
+260,19,Winter Herb Hut,49.2,Golden Chestnut Studio,Little Canglang Lodge,7,12.14,18.35,0.7083,0.146254
+260,19,Winter Herb Hut,49.2,Garden Tea Lodge,Paulownia Terrace,17,5.7,10.29,1.3645,0.149883
+261,19,Winter Herb Hut,49.43,Golden Chestnut Studio,Stone Qin Room,7,12.14,18.35,0.8034,0.109152
+261,19,Winter Herb Hut,49.43,Golden Chestnut Studio,Phoenix Paulownia,7,12.14,18.35,0.9326,0.145057
+261,19,Winter Herb Hut,49.43,Golden Chestnut Studio,Little Canglang Lodge,7,12.14,18.35,0.7083,0.146254
+261,19,Winter Herb Hut,49.43,Garden Tea Lodge,Paulownia Terrace,17,5.7,10.29,1.3645,0.149883
+262,19,Winter Herb Hut,49.66,Golden Chestnut Studio,Stone Qin Room,7,12.14,18.35,0.8034,0.109152
+262,19,Winter Herb Hut,49.66,Golden Chestnut Studio,Phoenix Paulownia,7,12.14,18.35,0.9326,0.145057
+262,19,Winter Herb Hut,49.66,Golden Chestnut Studio,Little Canglang Lodge,7,12.14,18.35,0.7083,0.146254
+262,19,Winter Herb Hut,49.66,Garden Tea Lodge,Paulownia Terrace,17,5.7,10.29,1.3645,0.149883
+263,19,Winter Herb Hut,49.89,Golden Chestnut Studio,Stone Qin Room,7,12.14,18.35,0.8034,0.109152
+263,19,Winter Herb Hut,49.89,Golden Chestnut Studio,Phoenix Paulownia,7,12.14,18.35,0.9326,0.145057
+263,19,Winter Herb Hut,49.89,Golden Chestnut Studio,Little Canglang Lodge,7,12.14,18.35,0.7083,0.146254
+263,19,Winter Herb Hut,49.89,Garden Tea Lodge,Paulownia Terrace,17,5.7,10.29,1.3645,0.149883
+264,19,Winter Herb Hut,50.11,Golden Chestnut Studio,Stone Qin Room,7,12.31,18.57,0.8034,0.120305
+264,19,Winter Herb Hut,50.11,Golden Chestnut Studio,Phoenix Paulownia,7,12.31,18.57,0.9326,0.144195
+264,19,Winter Herb Hut,50.11,Golden Chestnut Studio,Little Canglang Lodge,7,12.31,18.57,0.7083,0.148084
+264,19,Winter Herb Hut,50.11,Lotus Depths,Paulownia Terrace,4,11.51,17.57,0.8583,0.170347
+265,19,Winter Herb Hut,50.34,Golden Chestnut Studio,Stone Qin Room,7,12.31,18.57,0.8034,0.120305
+265,19,Winter Herb Hut,50.34,Golden Chestnut Studio,Phoenix Paulownia,7,12.31,18.57,0.9326,0.144195
+265,19,Winter Herb Hut,50.34,Golden Chestnut Studio,Little Canglang Lodge,7,12.31,18.57,0.7083,0.148084
+265,19,Winter Herb Hut,50.34,Lotus Depths,Paulownia Terrace,4,11.51,17.57,0.8583,0.170347
+266,19,Winter Herb Hut,50.57,Golden Chestnut Studio,Stone Qin Room,7,12.31,18.57,0.8034,0.120305
+266,19,Winter Herb Hut,50.57,Golden Chestnut Studio,Phoenix Paulownia,7,12.31,18.57,0.9326,0.144195
+266,19,Winter Herb Hut,50.57,Golden Chestnut Studio,Little Canglang Lodge,7,12.31,18.57,0.7083,0.148084
+266,19,Winter Herb Hut,50.57,Lotus Depths,Paulownia Terrace,4,11.51,17.57,0.8583,0.170347
+267,19,Winter Herb Hut,50.8,Golden Chestnut Studio,Stone Qin Room,7,12.31,18.57,0.8034,0.120305
+267,19,Winter Herb Hut,50.8,Golden Chestnut Studio,Phoenix Paulownia,7,12.31,18.57,0.9326,0.144195
+267,19,Winter Herb Hut,50.8,Golden Chestnut Studio,Little Canglang Lodge,7,12.31,18.57,0.7083,0.148084
+267,19,Winter Herb Hut,50.8,Lotus Depths,Paulownia Terrace,4,11.51,17.57,0.8583,0.170347
+268,19,Winter Herb Hut,51.03,Golden Chestnut Studio,Stone Qin Room,7,12.68,19.03,0.8034,0.123828
+268,19,Winter Herb Hut,51.03,Golden Chestnut Studio,Little Canglang Lodge,7,12.68,19.03,0.7083,0.148972
+268,19,Winter Herb Hut,51.03,Golden Chestnut Studio,Phoenix Paulownia,7,12.68,19.03,0.9326,0.155031
+268,19,Winter Herb Hut,51.03,Lotus Depths,Paulownia Terrace,4,12.03,18.22,0.8583,0.166845
+269,19,Winter Herb Hut,51.26,Golden Chestnut Studio,Stone Qin Room,7,12.68,19.03,0.8034,0.123828
+269,19,Winter Herb Hut,51.26,Golden Chestnut Studio,Little Canglang Lodge,7,12.68,19.03,0.7083,0.148972
+269,19,Winter Herb Hut,51.26,Golden Chestnut Studio,Phoenix Paulownia,7,12.68,19.03,0.9326,0.155031
+269,19,Winter Herb Hut,51.26,Lotus Depths,Paulownia Terrace,4,12.03,18.22,0.8583,0.166845
+270,19,Winter Herb Hut,51.49,Golden Chestnut Studio,Stone Qin Room,7,12.68,19.03,0.8034,0.123828
+270,19,Winter Herb Hut,51.49,Golden Chestnut Studio,Little Canglang Lodge,7,12.68,19.03,0.7083,0.148972
+270,19,Winter Herb Hut,51.49,Golden Chestnut Studio,Phoenix Paulownia,7,12.68,19.03,0.9326,0.155031
+270,19,Winter Herb Hut,51.49,Lotus Depths,Paulownia Terrace,4,12.03,18.22,0.8583,0.166845
+271,19,Winter Herb Hut,51.71,Golden Chestnut Studio,Stone Qin Room,7,12.68,19.03,0.8034,0.123828
+271,19,Winter Herb Hut,51.71,Golden Chestnut Studio,Little Canglang Lodge,7,12.68,19.03,0.7083,0.148972
+271,19,Winter Herb Hut,51.71,Golden Chestnut Studio,Phoenix Paulownia,7,12.68,19.03,0.9326,0.155031
+271,19,Winter Herb Hut,51.71,Lotus Depths,Paulownia Terrace,4,12.03,18.22,0.8583,0.166845
+272,19,Winter Herb Hut,51.94,Golden Chestnut Studio,Stone Qin Room,7,12.68,19.03,0.8034,0.123828
+272,19,Winter Herb Hut,51.94,Golden Chestnut Studio,Little Canglang Lodge,7,12.68,19.03,0.7083,0.148972
+272,19,Winter Herb Hut,51.94,Golden Chestnut Studio,Phoenix Paulownia,7,12.68,19.03,0.9326,0.155031
+272,19,Winter Herb Hut,51.94,Lotus Depths,Paulownia Terrace,4,12.03,18.22,0.8583,0.166845
+273,19,Winter Herb Hut,52.17,Golden Chestnut Studio,Stone Qin Room,7,14.5,21.31,0.8034,0.16349
+273,19,Winter Herb Hut,52.17,Lotus Depths,Paulownia Terrace,4,12.06,18.26,0.8583,0.165565
+273,19,Winter Herb Hut,52.17,Golden Chestnut Studio,Phoenix Paulownia,7,14.5,21.31,0.9326,0.173835
+273,19,Winter Herb Hut,52.17,Garden Tea Lodge,Paulownia Terrace,17,7.29,12.28,1.3645,0.175655
+274,19,Winter Herb Hut,52.4,Golden Chestnut Studio,Stone Qin Room,7,14.5,21.31,0.8034,0.16349
+274,19,Winter Herb Hut,52.4,Lotus Depths,Paulownia Terrace,4,12.06,18.26,0.8583,0.165565
+274,19,Winter Herb Hut,52.4,Golden Chestnut Studio,Phoenix Paulownia,7,14.5,21.31,0.9326,0.173835
+274,19,Winter Herb Hut,52.4,Garden Tea Lodge,Paulownia Terrace,17,7.29,12.28,1.3645,0.175655
+275,19,Winter Herb Hut,52.63,Golden Chestnut Studio,Stone Qin Room,7,14.5,21.31,0.8034,0.16349
+275,19,Winter Herb Hut,52.63,Lotus Depths,Paulownia Terrace,4,12.06,18.26,0.8583,0.165565
+275,19,Winter Herb Hut,52.63,Golden Chestnut Studio,Phoenix Paulownia,7,14.5,21.31,0.9326,0.173835
+275,19,Winter Herb Hut,52.63,Garden Tea Lodge,Paulownia Terrace,17,7.29,12.28,1.3645,0.175655
+276,19,Winter Herb Hut,52.86,Golden Chestnut Studio,Stone Qin Room,7,14.5,21.31,0.8034,0.16349
+276,19,Winter Herb Hut,52.86,Lotus Depths,Paulownia Terrace,4,12.06,18.26,0.8583,0.165565
+276,19,Winter Herb Hut,52.86,Golden Chestnut Studio,Phoenix Paulownia,7,14.5,21.31,0.9326,0.173835
+276,19,Winter Herb Hut,52.86,Garden Tea Lodge,Paulownia Terrace,17,7.29,12.28,1.3645,0.175655
+277,19,Winter Herb Hut,53.09,Lotus Depths,Paulownia Terrace,4,11.69,17.79,0.8583,0.173685
+277,19,Winter Herb Hut,53.09,Garden Tea Lodge,Paulownia Terrace,17,8.26,13.5,1.3645,0.182708
+277,19,Winter Herb Hut,53.09,Golden Chestnut Studio,Little Canglang Lodge,7,15.21,22.2,0.7083,0.185351
+277,19,Winter Herb Hut,53.09,Golden Chestnut Studio,Stone Qin Room,7,15.21,22.2,0.8034,0.186289
+278,19,Winter Herb Hut,53.31,Lotus Depths,Paulownia Terrace,4,11.69,17.79,0.8583,0.173685
+278,19,Winter Herb Hut,53.31,Garden Tea Lodge,Paulownia Terrace,17,8.26,13.5,1.3645,0.182708
+278,19,Winter Herb Hut,53.31,Golden Chestnut Studio,Little Canglang Lodge,7,15.21,22.2,0.7083,0.185351
+278,19,Winter Herb Hut,53.31,Golden Chestnut Studio,Stone Qin Room,7,15.21,22.2,0.8034,0.186289
+279,19,Winter Herb Hut,53.54,Lotus Depths,Paulownia Terrace,4,11.69,17.79,0.8583,0.173685
+279,19,Winter Herb Hut,53.54,Garden Tea Lodge,Paulownia Terrace,17,8.26,13.5,1.3645,0.182708
+279,19,Winter Herb Hut,53.54,Golden Chestnut Studio,Little Canglang Lodge,7,15.21,22.2,0.7083,0.185351
+279,19,Winter Herb Hut,53.54,Golden Chestnut Studio,Stone Qin Room,7,15.21,22.2,0.8034,0.186289
+280,19,Winter Herb Hut,53.77,Lotus Depths,Paulownia Terrace,4,11.69,17.79,0.8583,0.173685
+280,19,Winter Herb Hut,53.77,Garden Tea Lodge,Paulownia Terrace,17,8.26,13.5,1.3645,0.182708
+280,19,Winter Herb Hut,53.77,Golden Chestnut Studio,Little Canglang Lodge,7,15.21,22.2,0.7083,0.185351
+280,19,Winter Herb Hut,53.77,Golden Chestnut Studio,Stone Qin Room,7,15.21,22.2,0.8034,0.186289
+379,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+379,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+379,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+379,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+380,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+380,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+380,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+380,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+381,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+381,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+381,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+381,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+382,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+382,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+382,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+382,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+383,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+383,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+383,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+383,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+384,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+384,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+384,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+384,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+385,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+385,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+385,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+385,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+386,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+386,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+386,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+386,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+387,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+387,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+387,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+387,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+388,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+388,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+388,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+388,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+389,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+389,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+389,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+389,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+390,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+390,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+390,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+390,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+391,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+391,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+391,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+391,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+392,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+392,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+392,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+392,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+393,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+393,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+393,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+393,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+394,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+394,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+394,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+394,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+395,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+395,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+395,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+395,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+396,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+396,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+396,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+396,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+397,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+397,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+397,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+397,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+398,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+398,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+398,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+398,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+399,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+399,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+399,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+399,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961
+400,22,Garden Tea Lodge,71.0,Paulownia Terrace,Spiral Bun Pavilion,7,4.38,8.63,0.9124,0.061363
+400,22,Garden Tea Lodge,71.0,Paulownia Terrace,Lotus Depths,7,4.38,8.63,0.96,0.103477
+400,22,Garden Tea Lodge,71.0,Lotus Depths,Paulownia Terrace,11,11.79,17.92,1.0861,0.171941
+400,22,Garden Tea Lodge,71.0,Lotus Depths,Spiral Bun Pavilion,11,11.79,17.92,1.0945,0.193961

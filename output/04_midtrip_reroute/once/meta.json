@@ -1,0 +1,36 @@
+{
+  "scenario": "Single destination change",
+  "changes": [
+    {
+      "spot": 9,
+      "new_goal": 18
+    }
+  ],
+  "phases": [
+    [
+      1,
+      6,
+      10,
+      15
+    ],
+    [
+      15,
+      19,
+      22,
+      21,
+      18
+    ]
+  ],
+  "full_narrative": [
+    1,
+    6,
+    10,
+    15,
+    19,
+    22,
+    21,
+    18
+  ],
+  "n_frames": 400,
+  "lang": "en"
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "Yiying Garden Walk-Along Visualization"
+authors:
+  - family-names: Zeng
+    given-names: Wenquan
+license: Apache-2.0
+url: https://github.com/chaosbull
+repository-code: https://github.com/chaosbull/yiying-garden-walk

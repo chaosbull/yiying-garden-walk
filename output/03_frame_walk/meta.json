@@ -1,0 +1,21 @@
+{
+  "path_nodes": [
+    1,
+    6,
+    10,
+    15,
+    19,
+    22
+  ],
+  "path_names": [
+    "Stone Arch Gate",
+    "Paulownia Studio",
+    "South Snow Pavilion",
+    "Moon-Hoe Studio",
+    "Winter Herb Hut",
+    "Garden Tea Lodge"
+  ],
+  "n_frames": 400,
+  "note": "Recommendations only on arrive frames.",
+  "lang": "en"
+}

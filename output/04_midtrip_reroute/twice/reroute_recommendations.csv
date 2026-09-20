@@ -1,0 +1,648 @@
+﻿scenario,phase,frame,spot,goal,elapsed_min,step1,step2,arrive_min,crowd_lo,crowd_hi,changing_goal
+Two destination changes,1,1,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0
+Two destination changes,1,1,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,0
+Two destination changes,1,1,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,0
+Two destination changes,1,1,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0
+Two destination changes,1,2,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0
+Two destination changes,1,2,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,0
+Two destination changes,1,2,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,0
+Two destination changes,1,2,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0
+Two destination changes,1,3,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0
+Two destination changes,1,3,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,0
+Two destination changes,1,3,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,0
+Two destination changes,1,3,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0
+Two destination changes,1,4,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Lotus Waterside,6,19.22,27.23,0
+Two destination changes,1,4,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,Wall-Facing Pavilion,6,30.46,41.3,0
+Two destination changes,1,4,Stone Arch Gate,Garden Tea Lodge,0.0,Paulownia Studio,South Snow Pavilion,6,30.46,41.3,0
+Two destination changes,1,4,Stone Arch Gate,Garden Tea Lodge,0.0,Magnolia Hall,Paulownia Studio,6,19.22,27.23,0
+Two destination changes,1,33,Paulownia Studio,Garden Tea Lodge,6.0,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0
+Two destination changes,1,33,Paulownia Studio,Garden Tea Lodge,6.0,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,0
+Two destination changes,1,33,Paulownia Studio,Garden Tea Lodge,6.0,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0
+Two destination changes,1,33,Paulownia Studio,Garden Tea Lodge,6.0,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0
+Two destination changes,1,34,Paulownia Studio,Garden Tea Lodge,6.28,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0
+Two destination changes,1,34,Paulownia Studio,Garden Tea Lodge,6.28,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,0
+Two destination changes,1,34,Paulownia Studio,Garden Tea Lodge,6.28,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0
+Two destination changes,1,34,Paulownia Studio,Garden Tea Lodge,6.28,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0
+Two destination changes,1,35,Paulownia Studio,Garden Tea Lodge,6.56,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0
+Two destination changes,1,35,Paulownia Studio,Garden Tea Lodge,6.56,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,0
+Two destination changes,1,35,Paulownia Studio,Garden Tea Lodge,6.56,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0
+Two destination changes,1,35,Paulownia Studio,Garden Tea Lodge,6.56,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0
+Two destination changes,1,36,Paulownia Studio,Garden Tea Lodge,6.83,Wall-Facing Pavilion,Lotus Waterside,6,24.44,33.76,0
+Two destination changes,1,36,Paulownia Studio,Garden Tea Lodge,6.83,Wall-Facing Pavilion,Locked Green Studio,6,24.44,33.76,0
+Two destination changes,1,36,Paulownia Studio,Garden Tea Lodge,6.83,Magnolia Hall,Lotus Waterside,5,19.18,27.18,0
+Two destination changes,1,36,Paulownia Studio,Garden Tea Lodge,6.83,Wall-Facing Pavilion,Phoenix Paulownia,6,24.44,33.76,0
+Two destination changes,1,37,Paulownia Studio,Garden Tea Lodge,7.11,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,0
+Two destination changes,1,37,Paulownia Studio,Garden Tea Lodge,7.11,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0
+Two destination changes,1,37,Paulownia Studio,Garden Tea Lodge,7.11,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0
+Two destination changes,1,37,Paulownia Studio,Garden Tea Lodge,7.11,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0
+Two destination changes,1,38,Paulownia Studio,Garden Tea Lodge,7.39,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,0
+Two destination changes,1,38,Paulownia Studio,Garden Tea Lodge,7.39,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0
+Two destination changes,1,38,Paulownia Studio,Garden Tea Lodge,7.39,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0
+Two destination changes,1,38,Paulownia Studio,Garden Tea Lodge,7.39,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0
+Two destination changes,1,39,Paulownia Studio,Garden Tea Lodge,7.67,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,0
+Two destination changes,1,39,Paulownia Studio,Garden Tea Lodge,7.67,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0
+Two destination changes,1,39,Paulownia Studio,Garden Tea Lodge,7.67,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0
+Two destination changes,1,39,Paulownia Studio,Garden Tea Lodge,7.67,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0
+Two destination changes,1,40,Paulownia Studio,Garden Tea Lodge,7.94,Wall-Facing Pavilion,Locked Green Studio,6,23.42,32.49,0
+Two destination changes,1,40,Paulownia Studio,Garden Tea Lodge,7.94,Wall-Facing Pavilion,Lotus Waterside,6,23.42,32.49,0
+Two destination changes,1,40,Paulownia Studio,Garden Tea Lodge,7.94,Magnolia Hall,Lotus Waterside,5,19.44,27.5,0
+Two destination changes,1,40,Paulownia Studio,Garden Tea Lodge,7.94,Wall-Facing Pavilion,Phoenix Paulownia,6,23.42,32.49,0
+Two destination changes,1,41,Paulownia Studio,Garden Tea Lodge,8.22,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,0
+Two destination changes,1,41,Paulownia Studio,Garden Tea Lodge,8.22,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0
+Two destination changes,1,41,Paulownia Studio,Garden Tea Lodge,8.22,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0
+Two destination changes,1,41,Paulownia Studio,Garden Tea Lodge,8.22,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0
+Two destination changes,1,42,Paulownia Studio,Garden Tea Lodge,8.5,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,0
+Two destination changes,1,42,Paulownia Studio,Garden Tea Lodge,8.5,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0
+Two destination changes,1,42,Paulownia Studio,Garden Tea Lodge,8.5,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0
+Two destination changes,1,42,Paulownia Studio,Garden Tea Lodge,8.5,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0
+Two destination changes,1,43,Paulownia Studio,Garden Tea Lodge,8.78,Wall-Facing Pavilion,Locked Green Studio,6,23.0,31.96,0
+Two destination changes,1,43,Paulownia Studio,Garden Tea Lodge,8.78,Wall-Facing Pavilion,Lotus Waterside,6,23.0,31.96,0
+Two destination changes,1,43,Paulownia Studio,Garden Tea Lodge,8.78,Magnolia Hall,Lotus Waterside,5,23.01,31.97,0
+Two destination changes,1,43,Paulownia Studio,Garden Tea Lodge,8.78,Wall-Facing Pavilion,Phoenix Paulownia,6,23.0,31.96,0
+Two destination changes,1,44,Paulownia Studio,Garden Tea Lodge,9.06,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,0
+Two destination changes,1,44,Paulownia Studio,Garden Tea Lodge,9.06,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0
+Two destination changes,1,44,Paulownia Studio,Garden Tea Lodge,9.06,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0
+Two destination changes,1,44,Paulownia Studio,Garden Tea Lodge,9.06,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,0
+Two destination changes,1,45,Paulownia Studio,Garden Tea Lodge,9.33,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,0
+Two destination changes,1,45,Paulownia Studio,Garden Tea Lodge,9.33,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0
+Two destination changes,1,45,Paulownia Studio,Garden Tea Lodge,9.33,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0
+Two destination changes,1,45,Paulownia Studio,Garden Tea Lodge,9.33,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,0
+Two destination changes,1,46,Paulownia Studio,Garden Tea Lodge,9.61,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,0
+Two destination changes,1,46,Paulownia Studio,Garden Tea Lodge,9.61,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0
+Two destination changes,1,46,Paulownia Studio,Garden Tea Lodge,9.61,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0
+Two destination changes,1,46,Paulownia Studio,Garden Tea Lodge,9.61,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,0
+Two destination changes,1,47,Paulownia Studio,Garden Tea Lodge,9.89,Wall-Facing Pavilion,Locked Green Studio,6,27.98,38.19,0
+Two destination changes,1,47,Paulownia Studio,Garden Tea Lodge,9.89,Wall-Facing Pavilion,Lotus Waterside,6,27.98,38.19,0
+Two destination changes,1,47,Paulownia Studio,Garden Tea Lodge,9.89,Magnolia Hall,Lotus Waterside,5,21.85,30.52,0
+Two destination changes,1,47,Paulownia Studio,Garden Tea Lodge,9.89,Wall-Facing Pavilion,Magnolia Hall,6,27.98,38.19,0
+Two destination changes,1,48,Paulownia Studio,Garden Tea Lodge,10.17,Wall-Facing Pavilion,Locked Green Studio,6,22.27,31.05,0
+Two destination changes,1,48,Paulownia Studio,Garden Tea Lodge,10.17,Wall-Facing Pavilion,Lotus Waterside,6,22.27,31.05,0
+Two destination changes,1,48,Paulownia Studio,Garden Tea Lodge,10.17,Wall-Facing Pavilion,Magnolia Hall,6,22.27,31.05,0
+Two destination changes,1,48,Paulownia Studio,Garden Tea Lodge,10.17,Wall-Facing Pavilion,Phoenix Paulownia,6,22.27,31.05,0
+Two destination changes,1,49,Paulownia Studio,Garden Tea Lodge,10.44,Wall-Facing Pavilion,Locked Green Studio,6,22.27,31.05,0
+Two destination changes,1,49,Paulownia Studio,Garden Tea Lodge,10.44,Wall-Facing Pavilion,Lotus Waterside,6,22.27,31.05,0
+Two destination changes,1,49,Paulownia Studio,Garden Tea Lodge,10.44,Wall-Facing Pavilion,Magnolia Hall,6,22.27,31.05,0
+Two destination changes,1,49,Paulownia Studio,Garden Tea Lodge,10.44,Wall-Facing Pavilion,Phoenix Paulownia,6,22.27,31.05,0
+Two destination changes,1,50,Paulownia Studio,Garden Tea Lodge,10.72,Wall-Facing Pavilion,Locked Green Studio,6,22.27,31.05,0
+Two destination changes,1,50,Paulownia Studio,Garden Tea Lodge,10.72,Wall-Facing Pavilion,Lotus Waterside,6,22.27,31.05,0
+Two destination changes,1,50,Paulownia Studio,Garden Tea Lodge,10.72,Wall-Facing Pavilion,Magnolia Hall,6,22.27,31.05,0
+Two destination changes,1,50,Paulownia Studio,Garden Tea Lodge,10.72,Wall-Facing Pavilion,Phoenix Paulownia,6,22.27,31.05,0
+Two destination changes,1,65,South Snow Pavilion,Garden Tea Lodge,14.0,Moon-Hoe Studio,Golden Chestnut Studio,8,15.21,22.2,0
+Two destination changes,1,65,South Snow Pavilion,Garden Tea Lodge,14.0,Phoenix Paulownia,Moon-Hoe Studio,8,16.94,24.37,0
+Two destination changes,1,65,South Snow Pavilion,Garden Tea Lodge,14.0,Phoenix Paulownia,Golden Chestnut Studio,8,16.94,24.37,0
+Two destination changes,1,65,South Snow Pavilion,Garden Tea Lodge,14.0,Phoenix Paulownia,Stone Qin Room,8,16.94,24.37,0
+Two destination changes,1,66,South Snow Pavilion,Garden Tea Lodge,14.29,Moon-Hoe Studio,Golden Chestnut Studio,8,12.16,18.38,0
+Two destination changes,1,66,South Snow Pavilion,Garden Tea Lodge,14.29,Phoenix Paulownia,Golden Chestnut Studio,8,17.06,24.52,0
+Two destination changes,1,66,South Snow Pavilion,Garden Tea Lodge,14.29,Phoenix Paulownia,Moon-Hoe Studio,8,17.06,24.52,0
+Two destination changes,1,66,South Snow Pavilion,Garden Tea Lodge,14.29,Phoenix Paulownia,Stone Qin Room,8,17.06,24.52,0
+Two destination changes,1,67,South Snow Pavilion,Garden Tea Lodge,14.57,Moon-Hoe Studio,Golden Chestnut Studio,8,12.16,18.38,0
+Two destination changes,1,67,South Snow Pavilion,Garden Tea Lodge,14.57,Phoenix Paulownia,Golden Chestnut Studio,8,17.06,24.52,0
+Two destination changes,1,67,South Snow Pavilion,Garden Tea Lodge,14.57,Phoenix Paulownia,Moon-Hoe Studio,8,17.06,24.52,0
+Two destination changes,1,67,South Snow Pavilion,Garden Tea Lodge,14.57,Phoenix Paulownia,Stone Qin Room,8,17.06,24.52,0
+Two destination changes,1,68,South Snow Pavilion,Garden Tea Lodge,14.86,Moon-Hoe Studio,Golden Chestnut Studio,8,12.16,18.38,0
+Two destination changes,1,68,South Snow Pavilion,Garden Tea Lodge,14.86,Phoenix Paulownia,Golden Chestnut Studio,8,17.06,24.52,0
+Two destination changes,1,68,South Snow Pavilion,Garden Tea Lodge,14.86,Phoenix Paulownia,Moon-Hoe Studio,8,17.06,24.52,0
+Two destination changes,1,68,South Snow Pavilion,Garden Tea Lodge,14.86,Phoenix Paulownia,Stone Qin Room,8,17.06,24.52,0
+Two destination changes,1,69,South Snow Pavilion,Garden Tea Lodge,15.14,Moon-Hoe Studio,Golden Chestnut Studio,8,16.98,24.42,0
+Two destination changes,1,69,South Snow Pavilion,Garden Tea Lodge,15.14,Phoenix Paulownia,Golden Chestnut Studio,8,20.84,29.25,0
+Two destination changes,1,69,South Snow Pavilion,Garden Tea Lodge,15.14,Phoenix Paulownia,Moon-Hoe Studio,8,20.84,29.25,0
+Two destination changes,1,69,South Snow Pavilion,Garden Tea Lodge,15.14,Phoenix Paulownia,Stone Qin Room,8,20.84,29.25,0
+Two destination changes,1,70,South Snow Pavilion,Garden Tea Lodge,15.43,Moon-Hoe Studio,Golden Chestnut Studio,8,16.98,24.42,0
+Two destination changes,1,70,South Snow Pavilion,Garden Tea Lodge,15.43,Phoenix Paulownia,Golden Chestnut Studio,8,20.84,29.25,0
+Two destination changes,1,70,South Snow Pavilion,Garden Tea Lodge,15.43,Phoenix Paulownia,Moon-Hoe Studio,8,20.84,29.25,0
+Two destination changes,1,70,South Snow Pavilion,Garden Tea Lodge,15.43,Phoenix Paulownia,Stone Qin Room,8,20.84,29.25,0
+Two destination changes,1,71,South Snow Pavilion,Garden Tea Lodge,15.71,Moon-Hoe Studio,Golden Chestnut Studio,8,16.98,24.42,0
+Two destination changes,1,71,South Snow Pavilion,Garden Tea Lodge,15.71,Phoenix Paulownia,Golden Chestnut Studio,8,20.84,29.25,0
+Two destination changes,1,71,South Snow Pavilion,Garden Tea Lodge,15.71,Phoenix Paulownia,Moon-Hoe Studio,8,20.84,29.25,0
+Two destination changes,1,71,South Snow Pavilion,Garden Tea Lodge,15.71,Phoenix Paulownia,Stone Qin Room,8,20.84,29.25,0
+Two destination changes,1,72,South Snow Pavilion,Garden Tea Lodge,16.0,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,0
+Two destination changes,1,72,South Snow Pavilion,Garden Tea Lodge,16.0,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,0
+Two destination changes,1,72,South Snow Pavilion,Garden Tea Lodge,16.0,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,0
+Two destination changes,1,72,South Snow Pavilion,Garden Tea Lodge,16.0,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,0
+Two destination changes,1,73,South Snow Pavilion,Garden Tea Lodge,16.29,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,0
+Two destination changes,1,73,South Snow Pavilion,Garden Tea Lodge,16.29,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,0
+Two destination changes,1,73,South Snow Pavilion,Garden Tea Lodge,16.29,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,0
+Two destination changes,1,73,South Snow Pavilion,Garden Tea Lodge,16.29,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,0
+Two destination changes,1,74,South Snow Pavilion,Garden Tea Lodge,16.57,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,0
+Two destination changes,1,74,South Snow Pavilion,Garden Tea Lodge,16.57,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,0
+Two destination changes,1,74,South Snow Pavilion,Garden Tea Lodge,16.57,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,0
+Two destination changes,1,74,South Snow Pavilion,Garden Tea Lodge,16.57,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,0
+Two destination changes,1,75,South Snow Pavilion,Garden Tea Lodge,16.86,Moon-Hoe Studio,Golden Chestnut Studio,8,17.08,24.54,0
+Two destination changes,1,75,South Snow Pavilion,Garden Tea Lodge,16.86,Phoenix Paulownia,Golden Chestnut Studio,8,17.58,25.16,0
+Two destination changes,1,75,South Snow Pavilion,Garden Tea Lodge,16.86,Phoenix Paulownia,Moon-Hoe Studio,8,17.58,25.16,0
+Two destination changes,1,75,South Snow Pavilion,Garden Tea Lodge,16.86,Phoenix Paulownia,Stone Qin Room,8,17.58,25.16,0
+Two destination changes,1,76,South Snow Pavilion,Garden Tea Lodge,17.14,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,0
+Two destination changes,1,76,South Snow Pavilion,Garden Tea Lodge,17.14,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,0
+Two destination changes,1,76,South Snow Pavilion,Garden Tea Lodge,17.14,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,0
+Two destination changes,1,76,South Snow Pavilion,Garden Tea Lodge,17.14,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,0
+Two destination changes,1,77,South Snow Pavilion,Garden Tea Lodge,17.43,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,0
+Two destination changes,1,77,South Snow Pavilion,Garden Tea Lodge,17.43,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,0
+Two destination changes,1,77,South Snow Pavilion,Garden Tea Lodge,17.43,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,0
+Two destination changes,1,77,South Snow Pavilion,Garden Tea Lodge,17.43,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,0
+Two destination changes,1,78,South Snow Pavilion,Garden Tea Lodge,17.71,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,0
+Two destination changes,1,78,South Snow Pavilion,Garden Tea Lodge,17.71,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,0
+Two destination changes,1,78,South Snow Pavilion,Garden Tea Lodge,17.71,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,0
+Two destination changes,1,78,South Snow Pavilion,Garden Tea Lodge,17.71,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,0
+Two destination changes,1,79,South Snow Pavilion,Garden Tea Lodge,18.0,Moon-Hoe Studio,Golden Chestnut Studio,8,15.3,22.31,0
+Two destination changes,1,79,South Snow Pavilion,Garden Tea Lodge,18.0,Phoenix Paulownia,Golden Chestnut Studio,8,17.7,25.32,0
+Two destination changes,1,79,South Snow Pavilion,Garden Tea Lodge,18.0,Phoenix Paulownia,Moon-Hoe Studio,8,17.7,25.32,0
+Two destination changes,1,79,South Snow Pavilion,Garden Tea Lodge,18.0,Phoenix Paulownia,Wall-Facing Pavilion,8,17.7,25.32,0
+Two destination changes,1,80,South Snow Pavilion,Garden Tea Lodge,18.29,Moon-Hoe Studio,Golden Chestnut Studio,8,13.61,20.19,0
+Two destination changes,1,80,South Snow Pavilion,Garden Tea Lodge,18.29,Phoenix Paulownia,Moon-Hoe Studio,8,19.38,27.42,0
+Two destination changes,1,80,South Snow Pavilion,Garden Tea Lodge,18.29,Phoenix Paulownia,Golden Chestnut Studio,8,19.38,27.42,0
+Two destination changes,1,80,South Snow Pavilion,Garden Tea Lodge,18.29,Phoenix Paulownia,Wall-Facing Pavilion,8,19.38,27.42,0
+Two destination changes,1,81,South Snow Pavilion,Garden Tea Lodge,18.57,Moon-Hoe Studio,Golden Chestnut Studio,8,13.61,20.19,0
+Two destination changes,1,81,South Snow Pavilion,Garden Tea Lodge,18.57,Phoenix Paulownia,Moon-Hoe Studio,8,19.38,27.42,0
+Two destination changes,1,81,South Snow Pavilion,Garden Tea Lodge,18.57,Phoenix Paulownia,Golden Chestnut Studio,8,19.38,27.42,0
+Two destination changes,1,81,South Snow Pavilion,Garden Tea Lodge,18.57,Phoenix Paulownia,Wall-Facing Pavilion,8,19.38,27.42,0
+Two destination changes,1,82,South Snow Pavilion,Garden Tea Lodge,18.86,Moon-Hoe Studio,Golden Chestnut Studio,8,13.61,20.19,0
+Two destination changes,1,82,South Snow Pavilion,Garden Tea Lodge,18.86,Phoenix Paulownia,Moon-Hoe Studio,8,19.38,27.42,0
+Two destination changes,1,82,South Snow Pavilion,Garden Tea Lodge,18.86,Phoenix Paulownia,Golden Chestnut Studio,8,19.38,27.42,0
+Two destination changes,1,82,South Snow Pavilion,Garden Tea Lodge,18.86,Phoenix Paulownia,Wall-Facing Pavilion,8,19.38,27.42,0
+Two destination changes,1,83,South Snow Pavilion,Garden Tea Lodge,19.14,Moon-Hoe Studio,Golden Chestnut Studio,8,13.71,20.32,0
+Two destination changes,1,83,South Snow Pavilion,Garden Tea Lodge,19.14,Phoenix Paulownia,Moon-Hoe Studio,8,22.64,31.51,0
+Two destination changes,1,83,South Snow Pavilion,Garden Tea Lodge,19.14,Phoenix Paulownia,Golden Chestnut Studio,8,22.64,31.51,0
+Two destination changes,1,83,South Snow Pavilion,Garden Tea Lodge,19.14,Phoenix Paulownia,Stone Qin Room,8,22.64,31.51,0
+Two destination changes,1,84,South Snow Pavilion,Garden Tea Lodge,19.43,Moon-Hoe Studio,Golden Chestnut Studio,8,13.71,20.32,0
+Two destination changes,1,84,South Snow Pavilion,Garden Tea Lodge,19.43,Phoenix Paulownia,Moon-Hoe Studio,8,22.64,31.51,0
+Two destination changes,1,84,South Snow Pavilion,Garden Tea Lodge,19.43,Phoenix Paulownia,Golden Chestnut Studio,8,22.64,31.51,0
+Two destination changes,1,84,South Snow Pavilion,Garden Tea Lodge,19.43,Phoenix Paulownia,Stone Qin Room,8,22.64,31.51,0
+Two destination changes,1,85,South Snow Pavilion,Garden Tea Lodge,19.71,Moon-Hoe Studio,Golden Chestnut Studio,8,13.71,20.32,0
+Two destination changes,1,85,South Snow Pavilion,Garden Tea Lodge,19.71,Phoenix Paulownia,Moon-Hoe Studio,8,22.64,31.51,0
+Two destination changes,1,85,South Snow Pavilion,Garden Tea Lodge,19.71,Phoenix Paulownia,Golden Chestnut Studio,8,22.64,31.51,0
+Two destination changes,1,85,South Snow Pavilion,Garden Tea Lodge,19.71,Phoenix Paulownia,Stone Qin Room,8,22.64,31.51,0
+Two destination changes,1,122,Moon-Hoe Studio,Garden Tea Lodge,28.0,Winter Herb Hut,Lotus Depths,12,15.82,22.96,0
+Two destination changes,1,122,Moon-Hoe Studio,Garden Tea Lodge,28.0,Phoenix Paulownia,Stone Qin Room,6,17.52,25.1,0
+Two destination changes,1,122,Moon-Hoe Studio,Garden Tea Lodge,28.0,Phoenix Paulownia,Golden Chestnut Studio,6,17.52,25.1,0
+Two destination changes,1,122,Moon-Hoe Studio,Garden Tea Lodge,28.0,Phoenix Paulownia,Wall-Facing Pavilion,6,17.52,25.1,0
+Two destination changes,1,123,Moon-Hoe Studio,Garden Tea Lodge,28.22,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0
+Two destination changes,1,123,Moon-Hoe Studio,Garden Tea Lodge,28.22,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0
+Two destination changes,1,123,Moon-Hoe Studio,Garden Tea Lodge,28.22,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0
+Two destination changes,1,123,Moon-Hoe Studio,Garden Tea Lodge,28.22,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0
+Two destination changes,1,124,Moon-Hoe Studio,Garden Tea Lodge,28.44,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0
+Two destination changes,1,124,Moon-Hoe Studio,Garden Tea Lodge,28.44,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0
+Two destination changes,1,124,Moon-Hoe Studio,Garden Tea Lodge,28.44,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0
+Two destination changes,1,124,Moon-Hoe Studio,Garden Tea Lodge,28.44,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0
+Two destination changes,1,125,Moon-Hoe Studio,Garden Tea Lodge,28.67,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0
+Two destination changes,1,125,Moon-Hoe Studio,Garden Tea Lodge,28.67,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0
+Two destination changes,1,125,Moon-Hoe Studio,Garden Tea Lodge,28.67,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0
+Two destination changes,1,125,Moon-Hoe Studio,Garden Tea Lodge,28.67,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0
+Two destination changes,1,126,Moon-Hoe Studio,Garden Tea Lodge,28.89,Winter Herb Hut,Lotus Depths,12,12.48,18.78,0
+Two destination changes,1,126,Moon-Hoe Studio,Garden Tea Lodge,28.89,Phoenix Paulownia,Stone Qin Room,6,15.64,22.74,0
+Two destination changes,1,126,Moon-Hoe Studio,Garden Tea Lodge,28.89,Phoenix Paulownia,Golden Chestnut Studio,6,15.64,22.74,0
+Two destination changes,1,126,Moon-Hoe Studio,Garden Tea Lodge,28.89,Golden Chestnut Studio,Stone Qin Room,6,19.76,27.9,0
+Two destination changes,1,127,Moon-Hoe Studio,Garden Tea Lodge,29.11,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0
+Two destination changes,1,127,Moon-Hoe Studio,Garden Tea Lodge,29.11,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0
+Two destination changes,1,127,Moon-Hoe Studio,Garden Tea Lodge,29.11,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0
+Two destination changes,1,127,Moon-Hoe Studio,Garden Tea Lodge,29.11,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0
+Two destination changes,1,128,Moon-Hoe Studio,Garden Tea Lodge,29.33,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0
+Two destination changes,1,128,Moon-Hoe Studio,Garden Tea Lodge,29.33,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0
+Two destination changes,1,128,Moon-Hoe Studio,Garden Tea Lodge,29.33,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0
+Two destination changes,1,128,Moon-Hoe Studio,Garden Tea Lodge,29.33,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0
+Two destination changes,1,129,Moon-Hoe Studio,Garden Tea Lodge,29.56,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0
+Two destination changes,1,129,Moon-Hoe Studio,Garden Tea Lodge,29.56,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0
+Two destination changes,1,129,Moon-Hoe Studio,Garden Tea Lodge,29.56,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0
+Two destination changes,1,129,Moon-Hoe Studio,Garden Tea Lodge,29.56,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0
+Two destination changes,1,130,Moon-Hoe Studio,Garden Tea Lodge,29.78,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0
+Two destination changes,1,130,Moon-Hoe Studio,Garden Tea Lodge,29.78,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0
+Two destination changes,1,130,Moon-Hoe Studio,Garden Tea Lodge,29.78,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0
+Two destination changes,1,130,Moon-Hoe Studio,Garden Tea Lodge,29.78,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0
+Two destination changes,1,131,Moon-Hoe Studio,Garden Tea Lodge,30.0,Golden Chestnut Studio,Stone Qin Room,6,18.49,26.31,0
+Two destination changes,1,131,Moon-Hoe Studio,Garden Tea Lodge,30.0,Golden Chestnut Studio,Little Canglang Lodge,6,18.49,26.31,0
+Two destination changes,1,131,Moon-Hoe Studio,Garden Tea Lodge,30.0,Winter Herb Hut,Lotus Depths,12,7.8,12.93,0
+Two destination changes,1,131,Moon-Hoe Studio,Garden Tea Lodge,30.0,Phoenix Paulownia,Stone Qin Room,6,16.05,23.25,0
+Two destination changes,1,132,Moon-Hoe Studio,Garden Tea Lodge,30.22,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0
+Two destination changes,1,132,Moon-Hoe Studio,Garden Tea Lodge,30.22,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0
+Two destination changes,1,132,Moon-Hoe Studio,Garden Tea Lodge,30.22,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0
+Two destination changes,1,132,Moon-Hoe Studio,Garden Tea Lodge,30.22,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0
+Two destination changes,1,133,Moon-Hoe Studio,Garden Tea Lodge,30.44,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0
+Two destination changes,1,133,Moon-Hoe Studio,Garden Tea Lodge,30.44,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0
+Two destination changes,1,133,Moon-Hoe Studio,Garden Tea Lodge,30.44,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0
+Two destination changes,1,133,Moon-Hoe Studio,Garden Tea Lodge,30.44,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0
+Two destination changes,1,134,Moon-Hoe Studio,Garden Tea Lodge,30.67,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0
+Two destination changes,1,134,Moon-Hoe Studio,Garden Tea Lodge,30.67,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0
+Two destination changes,1,134,Moon-Hoe Studio,Garden Tea Lodge,30.67,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0
+Two destination changes,1,134,Moon-Hoe Studio,Garden Tea Lodge,30.67,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0
+Two destination changes,1,135,Moon-Hoe Studio,Garden Tea Lodge,30.89,Golden Chestnut Studio,Stone Qin Room,6,14.34,21.11,0
+Two destination changes,1,135,Moon-Hoe Studio,Garden Tea Lodge,30.89,Golden Chestnut Studio,Little Canglang Lodge,6,14.34,21.11,0
+Two destination changes,1,135,Moon-Hoe Studio,Garden Tea Lodge,30.89,Winter Herb Hut,Lotus Depths,12,10.96,16.88,0
+Two destination changes,1,135,Moon-Hoe Studio,Garden Tea Lodge,30.89,Golden Chestnut Studio,Phoenix Paulownia,6,14.34,21.11,0
+Two destination changes,1,136,Moon-Hoe Studio,Garden Tea Lodge,31.11,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0
+Two destination changes,1,136,Moon-Hoe Studio,Garden Tea Lodge,31.11,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0
+Two destination changes,1,136,Moon-Hoe Studio,Garden Tea Lodge,31.11,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0
+Two destination changes,1,136,Moon-Hoe Studio,Garden Tea Lodge,31.11,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0
+Two destination changes,1,137,Moon-Hoe Studio,Garden Tea Lodge,31.33,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0
+Two destination changes,1,137,Moon-Hoe Studio,Garden Tea Lodge,31.33,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0
+Two destination changes,1,137,Moon-Hoe Studio,Garden Tea Lodge,31.33,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0
+Two destination changes,1,137,Moon-Hoe Studio,Garden Tea Lodge,31.33,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0
+Two destination changes,1,138,Moon-Hoe Studio,Garden Tea Lodge,31.56,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0
+Two destination changes,1,138,Moon-Hoe Studio,Garden Tea Lodge,31.56,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0
+Two destination changes,1,138,Moon-Hoe Studio,Garden Tea Lodge,31.56,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0
+Two destination changes,1,138,Moon-Hoe Studio,Garden Tea Lodge,31.56,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0
+Two destination changes,1,139,Moon-Hoe Studio,Garden Tea Lodge,31.78,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0
+Two destination changes,1,139,Moon-Hoe Studio,Garden Tea Lodge,31.78,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0
+Two destination changes,1,139,Moon-Hoe Studio,Garden Tea Lodge,31.78,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0
+Two destination changes,1,139,Moon-Hoe Studio,Garden Tea Lodge,31.78,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0
+Two destination changes,2,140,Moon-Hoe Studio,Stone Worship Studio,32.0,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0
+Two destination changes,2,140,Moon-Hoe Studio,Stone Worship Studio,32.0,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0
+Two destination changes,2,140,Moon-Hoe Studio,Stone Worship Studio,32.0,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0
+Two destination changes,2,140,Moon-Hoe Studio,Stone Worship Studio,32.0,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0
+Two destination changes,2,141,Moon-Hoe Studio,Stone Worship Studio,32.0,Golden Chestnut Studio,Stone Qin Room,6,18.08,25.8,0
+Two destination changes,2,141,Moon-Hoe Studio,Stone Worship Studio,32.0,Winter Herb Hut,Lotus Depths,12,12.36,18.63,0
+Two destination changes,2,141,Moon-Hoe Studio,Stone Worship Studio,32.0,Golden Chestnut Studio,Little Canglang Lodge,6,18.08,25.8,0
+Two destination changes,2,141,Moon-Hoe Studio,Stone Worship Studio,32.0,Golden Chestnut Studio,Phoenix Paulownia,6,18.08,25.8,0
+Two destination changes,2,172,Winter Herb Hut,Stone Worship Studio,44.0,Golden Chestnut Studio,Phoenix Paulownia,7,11.8,17.93,0
+Two destination changes,2,172,Winter Herb Hut,Stone Worship Studio,44.0,Golden Chestnut Studio,Stone Qin Room,7,11.8,17.93,0
+Two destination changes,2,172,Winter Herb Hut,Stone Worship Studio,44.0,Golden Chestnut Studio,Little Canglang Lodge,7,11.8,17.93,0
+Two destination changes,2,172,Winter Herb Hut,Stone Worship Studio,44.0,Garden Tea Lodge,Paulownia Terrace,17,5.35,9.85,0
+Two destination changes,2,173,Winter Herb Hut,Stone Worship Studio,44.53,Golden Chestnut Studio,Phoenix Paulownia,7,6.57,11.38,0
+Two destination changes,2,173,Winter Herb Hut,Stone Worship Studio,44.53,Golden Chestnut Studio,Stone Qin Room,7,6.57,11.38,0
+Two destination changes,2,173,Winter Herb Hut,Stone Worship Studio,44.53,Golden Chestnut Studio,Little Canglang Lodge,7,6.57,11.38,0
+Two destination changes,2,173,Winter Herb Hut,Stone Worship Studio,44.53,Garden Tea Lodge,Paulownia Terrace,17,5.3,9.79,0
+Two destination changes,2,174,Winter Herb Hut,Stone Worship Studio,45.07,Golden Chestnut Studio,Stone Qin Room,7,12.17,18.39,0
+Two destination changes,2,174,Winter Herb Hut,Stone Worship Studio,45.07,Golden Chestnut Studio,Phoenix Paulownia,7,12.17,18.39,0
+Two destination changes,2,174,Winter Herb Hut,Stone Worship Studio,45.07,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,0
+Two destination changes,2,174,Winter Herb Hut,Stone Worship Studio,45.07,Golden Chestnut Studio,Little Canglang Lodge,7,12.17,18.39,0
+Two destination changes,2,175,Winter Herb Hut,Stone Worship Studio,45.6,Golden Chestnut Studio,Stone Qin Room,7,12.17,18.39,0
+Two destination changes,2,175,Winter Herb Hut,Stone Worship Studio,45.6,Golden Chestnut Studio,Phoenix Paulownia,7,12.17,18.39,0
+Two destination changes,2,175,Winter Herb Hut,Stone Worship Studio,45.6,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,0
+Two destination changes,2,175,Winter Herb Hut,Stone Worship Studio,45.6,Golden Chestnut Studio,Little Canglang Lodge,7,12.17,18.39,0
+Two destination changes,2,176,Winter Herb Hut,Stone Worship Studio,46.13,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,0
+Two destination changes,2,176,Winter Herb Hut,Stone Worship Studio,46.13,Lotus Depths,Paulownia Terrace,4,11.48,17.53,0
+Two destination changes,2,176,Winter Herb Hut,Stone Worship Studio,46.13,Golden Chestnut Studio,Stone Qin Room,7,11.27,17.26,0
+Two destination changes,2,176,Winter Herb Hut,Stone Worship Studio,46.13,Golden Chestnut Studio,Phoenix Paulownia,7,11.27,17.26,0
+Two destination changes,2,177,Winter Herb Hut,Stone Worship Studio,46.67,Garden Tea Lodge,Paulownia Terrace,17,5.85,10.48,0
+Two destination changes,2,177,Winter Herb Hut,Stone Worship Studio,46.67,Lotus Depths,Paulownia Terrace,4,11.48,17.53,0
+Two destination changes,2,177,Winter Herb Hut,Stone Worship Studio,46.67,Golden Chestnut Studio,Stone Qin Room,7,11.27,17.26,0
+Two destination changes,2,177,Winter Herb Hut,Stone Worship Studio,46.67,Golden Chestnut Studio,Phoenix Paulownia,7,11.27,17.26,0
+Two destination changes,2,178,Winter Herb Hut,Stone Worship Studio,47.2,Golden Chestnut Studio,Stone Qin Room,7,10.66,16.5,0
+Two destination changes,2,178,Winter Herb Hut,Stone Worship Studio,47.2,Garden Tea Lodge,Paulownia Terrace,17,5.9,10.54,0
+Two destination changes,2,178,Winter Herb Hut,Stone Worship Studio,47.2,Golden Chestnut Studio,Phoenix Paulownia,7,10.66,16.5,0
+Two destination changes,2,178,Winter Herb Hut,Stone Worship Studio,47.2,Golden Chestnut Studio,Little Canglang Lodge,7,10.66,16.5,0
+Two destination changes,2,179,Winter Herb Hut,Stone Worship Studio,47.73,Golden Chestnut Studio,Stone Qin Room,7,10.66,16.5,0
+Two destination changes,2,179,Winter Herb Hut,Stone Worship Studio,47.73,Garden Tea Lodge,Paulownia Terrace,17,5.9,10.54,0
+Two destination changes,2,179,Winter Herb Hut,Stone Worship Studio,47.73,Golden Chestnut Studio,Phoenix Paulownia,7,10.66,16.5,0
+Two destination changes,2,179,Winter Herb Hut,Stone Worship Studio,47.73,Golden Chestnut Studio,Little Canglang Lodge,7,10.66,16.5,0
+Two destination changes,2,180,Winter Herb Hut,Stone Worship Studio,48.27,Golden Chestnut Studio,Stone Qin Room,7,11.97,18.15,0
+Two destination changes,2,180,Winter Herb Hut,Stone Worship Studio,48.27,Golden Chestnut Studio,Little Canglang Lodge,7,11.97,18.15,0
+Two destination changes,2,180,Winter Herb Hut,Stone Worship Studio,48.27,Garden Tea Lodge,Paulownia Terrace,17,5.74,10.34,0
+Two destination changes,2,180,Winter Herb Hut,Stone Worship Studio,48.27,Golden Chestnut Studio,Phoenix Paulownia,7,11.97,18.15,0
+Two destination changes,2,181,Winter Herb Hut,Stone Worship Studio,48.8,Golden Chestnut Studio,Stone Qin Room,7,11.97,18.15,0
+Two destination changes,2,181,Winter Herb Hut,Stone Worship Studio,48.8,Golden Chestnut Studio,Little Canglang Lodge,7,11.97,18.15,0
+Two destination changes,2,181,Winter Herb Hut,Stone Worship Studio,48.8,Garden Tea Lodge,Paulownia Terrace,17,5.74,10.34,0
+Two destination changes,2,181,Winter Herb Hut,Stone Worship Studio,48.8,Golden Chestnut Studio,Phoenix Paulownia,7,11.97,18.15,0
+Two destination changes,2,182,Winter Herb Hut,Stone Worship Studio,49.33,Golden Chestnut Studio,Stone Qin Room,7,12.14,18.35,0
+Two destination changes,2,182,Winter Herb Hut,Stone Worship Studio,49.33,Golden Chestnut Studio,Phoenix Paulownia,7,12.14,18.35,0
+Two destination changes,2,182,Winter Herb Hut,Stone Worship Studio,49.33,Golden Chestnut Studio,Little Canglang Lodge,7,12.14,18.35,0
+Two destination changes,2,182,Winter Herb Hut,Stone Worship Studio,49.33,Garden Tea Lodge,Paulownia Terrace,17,5.7,10.29,0
+Two destination changes,2,183,Winter Herb Hut,Stone Worship Studio,49.87,Golden Chestnut Studio,Stone Qin Room,7,12.14,18.35,0
+Two destination changes,2,183,Winter Herb Hut,Stone Worship Studio,49.87,Golden Chestnut Studio,Phoenix Paulownia,7,12.14,18.35,0
+Two destination changes,2,183,Winter Herb Hut,Stone Worship Studio,49.87,Golden Chestnut Studio,Little Canglang Lodge,7,12.14,18.35,0
+Two destination changes,2,183,Winter Herb Hut,Stone Worship Studio,49.87,Garden Tea Lodge,Paulownia Terrace,17,5.7,10.29,0
+Two destination changes,2,184,Winter Herb Hut,Stone Worship Studio,50.4,Golden Chestnut Studio,Stone Qin Room,7,12.31,18.57,0
+Two destination changes,2,184,Winter Herb Hut,Stone Worship Studio,50.4,Golden Chestnut Studio,Phoenix Paulownia,7,12.31,18.57,0
+Two destination changes,2,184,Winter Herb Hut,Stone Worship Studio,50.4,Golden Chestnut Studio,Little Canglang Lodge,7,12.31,18.57,0
+Two destination changes,2,184,Winter Herb Hut,Stone Worship Studio,50.4,Lotus Depths,Paulownia Terrace,4,11.51,17.57,0
+Two destination changes,2,185,Winter Herb Hut,Stone Worship Studio,50.93,Golden Chestnut Studio,Stone Qin Room,7,12.31,18.57,0
+Two destination changes,2,185,Winter Herb Hut,Stone Worship Studio,50.93,Golden Chestnut Studio,Phoenix Paulownia,7,12.31,18.57,0
+Two destination changes,2,185,Winter Herb Hut,Stone Worship Studio,50.93,Golden Chestnut Studio,Little Canglang Lodge,7,12.31,18.57,0
+Two destination changes,2,185,Winter Herb Hut,Stone Worship Studio,50.93,Lotus Depths,Paulownia Terrace,4,11.51,17.57,0
+Two destination changes,2,186,Winter Herb Hut,Stone Worship Studio,51.47,Golden Chestnut Studio,Stone Qin Room,7,12.68,19.03,0
+Two destination changes,2,186,Winter Herb Hut,Stone Worship Studio,51.47,Golden Chestnut Studio,Little Canglang Lodge,7,12.68,19.03,0
+Two destination changes,2,186,Winter Herb Hut,Stone Worship Studio,51.47,Golden Chestnut Studio,Phoenix Paulownia,7,12.68,19.03,0
+Two destination changes,2,186,Winter Herb Hut,Stone Worship Studio,51.47,Lotus Depths,Paulownia Terrace,4,12.03,18.22,0
+Two destination changes,2,197,Lotus Depths,Stone Worship Studio,56.0,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,197,Lotus Depths,Stone Worship Studio,56.0,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,197,Lotus Depths,Stone Worship Studio,56.0,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,197,Lotus Depths,Stone Worship Studio,56.0,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,198,Lotus Depths,Stone Worship Studio,56.53,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,198,Lotus Depths,Stone Worship Studio,56.53,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,198,Lotus Depths,Stone Worship Studio,56.53,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,198,Lotus Depths,Stone Worship Studio,56.53,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,199,Lotus Depths,Stone Worship Studio,57.06,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,199,Lotus Depths,Stone Worship Studio,57.06,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,199,Lotus Depths,Stone Worship Studio,57.06,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,199,Lotus Depths,Stone Worship Studio,57.06,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,200,Lotus Depths,Stone Worship Studio,57.59,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,200,Lotus Depths,Stone Worship Studio,57.59,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,200,Lotus Depths,Stone Worship Studio,57.59,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,200,Lotus Depths,Stone Worship Studio,57.59,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,201,Lotus Depths,Stone Worship Studio,58.12,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,201,Lotus Depths,Stone Worship Studio,58.12,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,201,Lotus Depths,Stone Worship Studio,58.12,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,201,Lotus Depths,Stone Worship Studio,58.12,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,202,Lotus Depths,Stone Worship Studio,58.65,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,202,Lotus Depths,Stone Worship Studio,58.65,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,202,Lotus Depths,Stone Worship Studio,58.65,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,202,Lotus Depths,Stone Worship Studio,58.65,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,203,Lotus Depths,Stone Worship Studio,59.18,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,203,Lotus Depths,Stone Worship Studio,59.18,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,203,Lotus Depths,Stone Worship Studio,59.18,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,203,Lotus Depths,Stone Worship Studio,59.18,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,204,Lotus Depths,Stone Worship Studio,59.71,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,204,Lotus Depths,Stone Worship Studio,59.71,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,204,Lotus Depths,Stone Worship Studio,59.71,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,204,Lotus Depths,Stone Worship Studio,59.71,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,205,Lotus Depths,Stone Worship Studio,60.24,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,205,Lotus Depths,Stone Worship Studio,60.24,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,205,Lotus Depths,Stone Worship Studio,60.24,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,205,Lotus Depths,Stone Worship Studio,60.24,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,206,Lotus Depths,Stone Worship Studio,60.76,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,206,Lotus Depths,Stone Worship Studio,60.76,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,206,Lotus Depths,Stone Worship Studio,60.76,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,206,Lotus Depths,Stone Worship Studio,60.76,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,207,Lotus Depths,Stone Worship Studio,61.29,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,207,Lotus Depths,Stone Worship Studio,61.29,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,207,Lotus Depths,Stone Worship Studio,61.29,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,207,Lotus Depths,Stone Worship Studio,61.29,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,208,Lotus Depths,Stone Worship Studio,61.82,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,208,Lotus Depths,Stone Worship Studio,61.82,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,208,Lotus Depths,Stone Worship Studio,61.82,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,208,Lotus Depths,Stone Worship Studio,61.82,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,209,Lotus Depths,Stone Worship Studio,62.35,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,209,Lotus Depths,Stone Worship Studio,62.35,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,209,Lotus Depths,Stone Worship Studio,62.35,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,209,Lotus Depths,Stone Worship Studio,62.35,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,210,Lotus Depths,Stone Worship Studio,62.88,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,210,Lotus Depths,Stone Worship Studio,62.88,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,210,Lotus Depths,Stone Worship Studio,62.88,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,210,Lotus Depths,Stone Worship Studio,62.88,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,211,Lotus Depths,Stone Worship Studio,63.41,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,211,Lotus Depths,Stone Worship Studio,63.41,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,211,Lotus Depths,Stone Worship Studio,63.41,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,211,Lotus Depths,Stone Worship Studio,63.41,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,212,Lotus Depths,Stone Worship Studio,63.94,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,212,Lotus Depths,Stone Worship Studio,63.94,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,212,Lotus Depths,Stone Worship Studio,63.94,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,212,Lotus Depths,Stone Worship Studio,63.94,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,213,Lotus Depths,Stone Worship Studio,64.47,Paulownia Terrace,Spiral Bun Pavilion,4,4.38,8.63,0
+Two destination changes,2,213,Lotus Depths,Stone Worship Studio,64.47,Paulownia Terrace,Garden Tea Lodge,4,4.38,8.63,0
+Two destination changes,2,213,Lotus Depths,Stone Worship Studio,64.47,Spiral Bun Pavilion,Paulownia Terrace,5,11.49,17.54,0
+Two destination changes,2,213,Lotus Depths,Stone Worship Studio,64.47,Spiral Bun Pavilion,Po-Xian Qin Gallery,5,11.49,17.54,0
+Two destination changes,2,224,Paulownia Terrace,Stone Worship Studio,69.0,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,224,Paulownia Terrace,Stone Worship Studio,69.0,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,224,Paulownia Terrace,Stone Worship Studio,69.0,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,224,Paulownia Terrace,Stone Worship Studio,69.0,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,225,Paulownia Terrace,Stone Worship Studio,69.54,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,225,Paulownia Terrace,Stone Worship Studio,69.54,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,225,Paulownia Terrace,Stone Worship Studio,69.54,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,225,Paulownia Terrace,Stone Worship Studio,69.54,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,226,Paulownia Terrace,Stone Worship Studio,70.08,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,226,Paulownia Terrace,Stone Worship Studio,70.08,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,226,Paulownia Terrace,Stone Worship Studio,70.08,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,226,Paulownia Terrace,Stone Worship Studio,70.08,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,227,Paulownia Terrace,Stone Worship Studio,70.62,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,227,Paulownia Terrace,Stone Worship Studio,70.62,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,227,Paulownia Terrace,Stone Worship Studio,70.62,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,227,Paulownia Terrace,Stone Worship Studio,70.62,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,228,Paulownia Terrace,Stone Worship Studio,71.15,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,228,Paulownia Terrace,Stone Worship Studio,71.15,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,228,Paulownia Terrace,Stone Worship Studio,71.15,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,228,Paulownia Terrace,Stone Worship Studio,71.15,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,229,Paulownia Terrace,Stone Worship Studio,71.69,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,229,Paulownia Terrace,Stone Worship Studio,71.69,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,229,Paulownia Terrace,Stone Worship Studio,71.69,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,229,Paulownia Terrace,Stone Worship Studio,71.69,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,230,Paulownia Terrace,Stone Worship Studio,72.23,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,230,Paulownia Terrace,Stone Worship Studio,72.23,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,230,Paulownia Terrace,Stone Worship Studio,72.23,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,230,Paulownia Terrace,Stone Worship Studio,72.23,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,231,Paulownia Terrace,Stone Worship Studio,72.77,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,231,Paulownia Terrace,Stone Worship Studio,72.77,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,231,Paulownia Terrace,Stone Worship Studio,72.77,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,231,Paulownia Terrace,Stone Worship Studio,72.77,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,232,Paulownia Terrace,Stone Worship Studio,73.31,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,232,Paulownia Terrace,Stone Worship Studio,73.31,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,232,Paulownia Terrace,Stone Worship Studio,73.31,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,232,Paulownia Terrace,Stone Worship Studio,73.31,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,233,Paulownia Terrace,Stone Worship Studio,73.85,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,233,Paulownia Terrace,Stone Worship Studio,73.85,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,233,Paulownia Terrace,Stone Worship Studio,73.85,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,233,Paulownia Terrace,Stone Worship Studio,73.85,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,234,Paulownia Terrace,Stone Worship Studio,74.38,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,234,Paulownia Terrace,Stone Worship Studio,74.38,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,234,Paulownia Terrace,Stone Worship Studio,74.38,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,234,Paulownia Terrace,Stone Worship Studio,74.38,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,235,Paulownia Terrace,Stone Worship Studio,74.92,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,235,Paulownia Terrace,Stone Worship Studio,74.92,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,235,Paulownia Terrace,Stone Worship Studio,74.92,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,235,Paulownia Terrace,Stone Worship Studio,74.92,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,236,Paulownia Terrace,Stone Worship Studio,75.46,Spiral Bun Pavilion,Po-Xian Qin Gallery,3,11.49,17.54,0
+Two destination changes,2,236,Paulownia Terrace,Stone Worship Studio,75.46,Spiral Bun Pavilion,Little Canglang Lodge,3,11.49,17.54,0
+Two destination changes,2,236,Paulownia Terrace,Stone Worship Studio,75.46,Stone Worship Studio,Dew Hall,7,16.29,23.55,0
+Two destination changes,2,236,Paulownia Terrace,Stone Worship Studio,75.46,Spiral Bun Pavilion,Stone Worship Studio,3,11.49,17.54,0
+Two destination changes,2,244,Spiral Bun Pavilion,Stone Worship Studio,79.0,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,244,Spiral Bun Pavilion,Stone Worship Studio,79.0,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,244,Spiral Bun Pavilion,Stone Worship Studio,79.0,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,244,Spiral Bun Pavilion,Stone Worship Studio,79.0,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,245,Spiral Bun Pavilion,Stone Worship Studio,79.55,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,245,Spiral Bun Pavilion,Stone Worship Studio,79.55,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,245,Spiral Bun Pavilion,Stone Worship Studio,79.55,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,245,Spiral Bun Pavilion,Stone Worship Studio,79.55,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,246,Spiral Bun Pavilion,Stone Worship Studio,80.09,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,246,Spiral Bun Pavilion,Stone Worship Studio,80.09,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,246,Spiral Bun Pavilion,Stone Worship Studio,80.09,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,246,Spiral Bun Pavilion,Stone Worship Studio,80.09,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,247,Spiral Bun Pavilion,Stone Worship Studio,80.64,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,247,Spiral Bun Pavilion,Stone Worship Studio,80.64,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,247,Spiral Bun Pavilion,Stone Worship Studio,80.64,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,247,Spiral Bun Pavilion,Stone Worship Studio,80.64,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,248,Spiral Bun Pavilion,Stone Worship Studio,81.18,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,248,Spiral Bun Pavilion,Stone Worship Studio,81.18,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,248,Spiral Bun Pavilion,Stone Worship Studio,81.18,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,248,Spiral Bun Pavilion,Stone Worship Studio,81.18,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,249,Spiral Bun Pavilion,Stone Worship Studio,81.73,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,249,Spiral Bun Pavilion,Stone Worship Studio,81.73,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,249,Spiral Bun Pavilion,Stone Worship Studio,81.73,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,249,Spiral Bun Pavilion,Stone Worship Studio,81.73,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,250,Spiral Bun Pavilion,Stone Worship Studio,82.27,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,250,Spiral Bun Pavilion,Stone Worship Studio,82.27,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,250,Spiral Bun Pavilion,Stone Worship Studio,82.27,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,250,Spiral Bun Pavilion,Stone Worship Studio,82.27,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,251,Spiral Bun Pavilion,Stone Worship Studio,82.82,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,251,Spiral Bun Pavilion,Stone Worship Studio,82.82,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,251,Spiral Bun Pavilion,Stone Worship Studio,82.82,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,251,Spiral Bun Pavilion,Stone Worship Studio,82.82,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,252,Spiral Bun Pavilion,Stone Worship Studio,83.36,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,252,Spiral Bun Pavilion,Stone Worship Studio,83.36,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,252,Spiral Bun Pavilion,Stone Worship Studio,83.36,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,252,Spiral Bun Pavilion,Stone Worship Studio,83.36,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,253,Spiral Bun Pavilion,Stone Worship Studio,83.91,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,253,Spiral Bun Pavilion,Stone Worship Studio,83.91,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,253,Spiral Bun Pavilion,Stone Worship Studio,83.91,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,253,Spiral Bun Pavilion,Stone Worship Studio,83.91,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,254,Spiral Bun Pavilion,Stone Worship Studio,84.45,Po-Xian Qin Gallery,Dew Hall,5,6.82,11.7,0
+Two destination changes,2,254,Spiral Bun Pavilion,Stone Worship Studio,84.45,Po-Xian Qin Gallery,Stone Qin Room,5,6.82,11.7,0
+Two destination changes,2,254,Spiral Bun Pavilion,Stone Worship Studio,84.45,Po-Xian Qin Gallery,Stone Worship Studio,5,6.82,11.7,0
+Two destination changes,2,254,Spiral Bun Pavilion,Stone Worship Studio,84.45,Stone Worship Studio,Dew Hall,6,16.29,23.55,0
+Two destination changes,2,270,Stone Worship Studio,Stone Worship Studio,91.0,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,0
+Two destination changes,2,270,Stone Worship Studio,Stone Worship Studio,91.0,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,0
+Two destination changes,2,270,Stone Worship Studio,Stone Worship Studio,91.0,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,0
+Two destination changes,2,270,Stone Worship Studio,Stone Worship Studio,91.0,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,0
+Two destination changes,2,271,Stone Worship Studio,Stone Worship Studio,91.44,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,0
+Two destination changes,2,271,Stone Worship Studio,Stone Worship Studio,91.44,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,0
+Two destination changes,2,271,Stone Worship Studio,Stone Worship Studio,91.44,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,0
+Two destination changes,2,271,Stone Worship Studio,Stone Worship Studio,91.44,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,0
+Two destination changes,2,272,Stone Worship Studio,Stone Worship Studio,91.89,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,0
+Two destination changes,2,272,Stone Worship Studio,Stone Worship Studio,91.89,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,0
+Two destination changes,2,272,Stone Worship Studio,Stone Worship Studio,91.89,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,0
+Two destination changes,2,272,Stone Worship Studio,Stone Worship Studio,91.89,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,0
+Two destination changes,2,273,Stone Worship Studio,Stone Worship Studio,92.33,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,0
+Two destination changes,2,273,Stone Worship Studio,Stone Worship Studio,92.33,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,0
+Two destination changes,2,273,Stone Worship Studio,Stone Worship Studio,92.33,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,0
+Two destination changes,2,273,Stone Worship Studio,Stone Worship Studio,92.33,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,0
+Two destination changes,2,274,Stone Worship Studio,Winter Herb Hut,92.78,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,1
+Two destination changes,2,274,Stone Worship Studio,Winter Herb Hut,92.78,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,1
+Two destination changes,2,274,Stone Worship Studio,Winter Herb Hut,92.78,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,1
+Two destination changes,2,274,Stone Worship Studio,Winter Herb Hut,92.78,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,1
+Two destination changes,2,275,Stone Worship Studio,Winter Herb Hut,93.22,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,1
+Two destination changes,2,275,Stone Worship Studio,Winter Herb Hut,93.22,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,1
+Two destination changes,2,275,Stone Worship Studio,Winter Herb Hut,93.22,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,1
+Two destination changes,2,275,Stone Worship Studio,Winter Herb Hut,93.22,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,1
+Two destination changes,2,276,Stone Worship Studio,Winter Herb Hut,93.67,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,1
+Two destination changes,2,276,Stone Worship Studio,Winter Herb Hut,93.67,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,1
+Two destination changes,2,276,Stone Worship Studio,Winter Herb Hut,93.67,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,1
+Two destination changes,2,276,Stone Worship Studio,Winter Herb Hut,93.67,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,1
+Two destination changes,2,277,Stone Worship Studio,Winter Herb Hut,94.11,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,1
+Two destination changes,2,277,Stone Worship Studio,Winter Herb Hut,94.11,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,1
+Two destination changes,2,277,Stone Worship Studio,Winter Herb Hut,94.11,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,1
+Two destination changes,2,277,Stone Worship Studio,Winter Herb Hut,94.11,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,1
+Two destination changes,2,278,Stone Worship Studio,Winter Herb Hut,94.56,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,1
+Two destination changes,2,278,Stone Worship Studio,Winter Herb Hut,94.56,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,1
+Two destination changes,2,278,Stone Worship Studio,Winter Herb Hut,94.56,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,1
+Two destination changes,2,278,Stone Worship Studio,Winter Herb Hut,94.56,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,1
+Two destination changes,3,279,Stone Worship Studio,Winter Herb Hut,95.0,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,0
+Two destination changes,3,279,Stone Worship Studio,Winter Herb Hut,95.0,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,0
+Two destination changes,3,279,Stone Worship Studio,Winter Herb Hut,95.0,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,0
+Two destination changes,3,279,Stone Worship Studio,Winter Herb Hut,95.0,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,0
+Two destination changes,3,280,Stone Worship Studio,Winter Herb Hut,95.0,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,0
+Two destination changes,3,280,Stone Worship Studio,Winter Herb Hut,95.0,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,0
+Two destination changes,3,280,Stone Worship Studio,Winter Herb Hut,95.0,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,0
+Two destination changes,3,280,Stone Worship Studio,Winter Herb Hut,95.0,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,0
+Two destination changes,3,281,Stone Worship Studio,Winter Herb Hut,95.0,Golden Millet Pavilion,Moon-Wind Pavilion,7,7.01,11.93,0
+Two destination changes,3,281,Stone Worship Studio,Winter Herb Hut,95.0,Dew Hall,Po-Xian Qin Gallery,5,11.94,18.11,0
+Two destination changes,3,281,Stone Worship Studio,Winter Herb Hut,95.0,Dew Hall,Golden Millet Pavilion,5,11.94,18.11,0
+Two destination changes,3,281,Stone Worship Studio,Winter Herb Hut,95.0,Golden Millet Pavilion,Dew Hall,7,7.01,11.93,0
+Two destination changes,3,345,Lotus Depths,Winter Herb Hut,113.0,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,345,Lotus Depths,Winter Herb Hut,113.0,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,345,Lotus Depths,Winter Herb Hut,113.0,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,346,Lotus Depths,Winter Herb Hut,113.35,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,346,Lotus Depths,Winter Herb Hut,113.35,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,346,Lotus Depths,Winter Herb Hut,113.35,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,347,Lotus Depths,Winter Herb Hut,113.69,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,347,Lotus Depths,Winter Herb Hut,113.69,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,347,Lotus Depths,Winter Herb Hut,113.69,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,348,Lotus Depths,Winter Herb Hut,114.04,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,348,Lotus Depths,Winter Herb Hut,114.04,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,348,Lotus Depths,Winter Herb Hut,114.04,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,349,Lotus Depths,Winter Herb Hut,114.38,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,349,Lotus Depths,Winter Herb Hut,114.38,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,349,Lotus Depths,Winter Herb Hut,114.38,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,350,Lotus Depths,Winter Herb Hut,114.73,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,350,Lotus Depths,Winter Herb Hut,114.73,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,350,Lotus Depths,Winter Herb Hut,114.73,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,351,Lotus Depths,Winter Herb Hut,115.08,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,351,Lotus Depths,Winter Herb Hut,115.08,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,351,Lotus Depths,Winter Herb Hut,115.08,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,352,Lotus Depths,Winter Herb Hut,115.42,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,352,Lotus Depths,Winter Herb Hut,115.42,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,352,Lotus Depths,Winter Herb Hut,115.42,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,353,Lotus Depths,Winter Herb Hut,115.77,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,353,Lotus Depths,Winter Herb Hut,115.77,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,353,Lotus Depths,Winter Herb Hut,115.77,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,354,Lotus Depths,Winter Herb Hut,116.12,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,354,Lotus Depths,Winter Herb Hut,116.12,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,354,Lotus Depths,Winter Herb Hut,116.12,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,355,Lotus Depths,Winter Herb Hut,116.46,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,355,Lotus Depths,Winter Herb Hut,116.46,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,355,Lotus Depths,Winter Herb Hut,116.46,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,356,Lotus Depths,Winter Herb Hut,116.81,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,356,Lotus Depths,Winter Herb Hut,116.81,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,356,Lotus Depths,Winter Herb Hut,116.81,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,357,Lotus Depths,Winter Herb Hut,117.15,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,357,Lotus Depths,Winter Herb Hut,117.15,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,357,Lotus Depths,Winter Herb Hut,117.15,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,358,Lotus Depths,Winter Herb Hut,117.5,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,358,Lotus Depths,Winter Herb Hut,117.5,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,358,Lotus Depths,Winter Herb Hut,117.5,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,359,Lotus Depths,Winter Herb Hut,117.85,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,359,Lotus Depths,Winter Herb Hut,117.85,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,359,Lotus Depths,Winter Herb Hut,117.85,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,360,Lotus Depths,Winter Herb Hut,118.19,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,360,Lotus Depths,Winter Herb Hut,118.19,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,360,Lotus Depths,Winter Herb Hut,118.19,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,361,Lotus Depths,Winter Herb Hut,118.54,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,361,Lotus Depths,Winter Herb Hut,118.54,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,361,Lotus Depths,Winter Herb Hut,118.54,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,362,Lotus Depths,Winter Herb Hut,118.88,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,362,Lotus Depths,Winter Herb Hut,118.88,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,362,Lotus Depths,Winter Herb Hut,118.88,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,363,Lotus Depths,Winter Herb Hut,119.23,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,363,Lotus Depths,Winter Herb Hut,119.23,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,363,Lotus Depths,Winter Herb Hut,119.23,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,364,Lotus Depths,Winter Herb Hut,119.58,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,364,Lotus Depths,Winter Herb Hut,119.58,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,364,Lotus Depths,Winter Herb Hut,119.58,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,365,Lotus Depths,Winter Herb Hut,119.92,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,365,Lotus Depths,Winter Herb Hut,119.92,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,365,Lotus Depths,Winter Herb Hut,119.92,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,366,Lotus Depths,Winter Herb Hut,120.27,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,366,Lotus Depths,Winter Herb Hut,120.27,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,366,Lotus Depths,Winter Herb Hut,120.27,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,367,Lotus Depths,Winter Herb Hut,120.62,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,367,Lotus Depths,Winter Herb Hut,120.62,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,367,Lotus Depths,Winter Herb Hut,120.62,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,368,Lotus Depths,Winter Herb Hut,120.96,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,368,Lotus Depths,Winter Herb Hut,120.96,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,368,Lotus Depths,Winter Herb Hut,120.96,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,369,Lotus Depths,Winter Herb Hut,121.31,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,369,Lotus Depths,Winter Herb Hut,121.31,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,369,Lotus Depths,Winter Herb Hut,121.31,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,370,Lotus Depths,Winter Herb Hut,121.65,Little Canglang Lodge,Po-Xian Qin Gallery,5,15.49,22.55,0
+Two destination changes,3,370,Lotus Depths,Winter Herb Hut,121.65,Little Canglang Lodge,Golden Chestnut Studio,5,15.49,22.55,0
+Two destination changes,3,370,Lotus Depths,Winter Herb Hut,121.65,Little Canglang Lodge,Stone Qin Room,5,15.49,22.55,0
+Two destination changes,3,386,Winter Herb Hut,Winter Herb Hut,126.0,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,386,Winter Herb Hut,Winter Herb Hut,126.0,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,386,Winter Herb Hut,Winter Herb Hut,126.0,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,387,Winter Herb Hut,Winter Herb Hut,126.2,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,387,Winter Herb Hut,Winter Herb Hut,126.2,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,387,Winter Herb Hut,Winter Herb Hut,126.2,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,388,Winter Herb Hut,Winter Herb Hut,126.4,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,388,Winter Herb Hut,Winter Herb Hut,126.4,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,388,Winter Herb Hut,Winter Herb Hut,126.4,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,389,Winter Herb Hut,Winter Herb Hut,126.6,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,389,Winter Herb Hut,Winter Herb Hut,126.6,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,389,Winter Herb Hut,Winter Herb Hut,126.6,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,390,Winter Herb Hut,Winter Herb Hut,126.8,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,390,Winter Herb Hut,Winter Herb Hut,126.8,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,390,Winter Herb Hut,Winter Herb Hut,126.8,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,391,Winter Herb Hut,Winter Herb Hut,127.0,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,391,Winter Herb Hut,Winter Herb Hut,127.0,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,391,Winter Herb Hut,Winter Herb Hut,127.0,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,392,Winter Herb Hut,Winter Herb Hut,127.2,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,392,Winter Herb Hut,Winter Herb Hut,127.2,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,392,Winter Herb Hut,Winter Herb Hut,127.2,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,393,Winter Herb Hut,Winter Herb Hut,127.4,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,393,Winter Herb Hut,Winter Herb Hut,127.4,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,393,Winter Herb Hut,Winter Herb Hut,127.4,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,394,Winter Herb Hut,Winter Herb Hut,127.6,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,394,Winter Herb Hut,Winter Herb Hut,127.6,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,394,Winter Herb Hut,Winter Herb Hut,127.6,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,395,Winter Herb Hut,Winter Herb Hut,127.8,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,395,Winter Herb Hut,Winter Herb Hut,127.8,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,395,Winter Herb Hut,Winter Herb Hut,127.8,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,396,Winter Herb Hut,Winter Herb Hut,128.0,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,396,Winter Herb Hut,Winter Herb Hut,128.0,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,396,Winter Herb Hut,Winter Herb Hut,128.0,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,397,Winter Herb Hut,Winter Herb Hut,128.2,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,397,Winter Herb Hut,Winter Herb Hut,128.2,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,397,Winter Herb Hut,Winter Herb Hut,128.2,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,398,Winter Herb Hut,Winter Herb Hut,128.4,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,398,Winter Herb Hut,Winter Herb Hut,128.4,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,398,Winter Herb Hut,Winter Herb Hut,128.4,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,399,Winter Herb Hut,Winter Herb Hut,128.6,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,399,Winter Herb Hut,Winter Herb Hut,128.6,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,399,Winter Herb Hut,Winter Herb Hut,128.6,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
+Two destination changes,3,400,Winter Herb Hut,Winter Herb Hut,128.8,Golden Chestnut Studio,Little Canglang Lodge,7,15.92,23.09,0
+Two destination changes,3,400,Winter Herb Hut,Winter Herb Hut,128.8,Golden Chestnut Studio,Stone Qin Room,7,15.92,23.09,0
+Two destination changes,3,400,Winter Herb Hut,Winter Herb Hut,128.8,Golden Chestnut Studio,Phoenix Paulownia,7,15.92,23.09,0
